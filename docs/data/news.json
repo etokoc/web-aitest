@@ -1,1 +1,759 @@
-{"updatedAt":null,"items":[]}
+{
+  "updatedAt": "2026-08-21T09:03:35.608566+00:00",
+  "items": [
+    {
+      "title": "Borsa İstanbul’da gong Quick Sigorta için çaldı",
+      "summary": "Maher Holding Yönetim Kurulu Başkanı Mahmut Erdemoğlu Quick Sigorta’nın gong töreninde Bloomberg HT’ye konuştu.",
+      "link": "https://www.bloomberght.com/borsa-istanbulda-gong-quick-sigorta-icin-caldi-3784868",
+      "published": "Thu, 06 Aug 2026 09:03:00 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.72
+    },
+    {
+      "title": "Almanya'da fabrika siparişleri Haziran'da tahminleri aştı",
+      "summary": "Almanya'da fabrika siparişleri analistlerin tahminlerinin üzerinde artış gösterdi. Bu artış, Avrupa'nın en büyük ekonomisindeki toparlanmanın güçlenmeye başladığına işaret ediyor.",
+      "link": "https://www.bloomberght.com/almanya-da-fabrika-siparisleri-haziran-da-tahminleri-asti-3784866",
+      "published": "Thu, 06 Aug 2026 08:33:17 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.69
+    },
+    {
+      "title": "Brezilya, tavuk eti ve bal ihracatı için AB'den yeşil ışık bekliyor",
+      "summary": "Avrupa Komisyonu, Brezilya’dan kanatlı eti ve bal ithalatına yönelik ağustos sonunda denetim gerçekleştirecek. Denetimin olumlu sonuçlanması halinde Brezilya, bu ürünlerde yeniden AB’nin yetkili ihracatçı ülkeler listesine alınabilecek.",
+      "link": "https://www.bloomberght.com/brezilya-tavuk-eti-ve-bal-ihracati-icin-ab-den-yesil-isik-bekliyor-3784870",
+      "published": "Thu, 06 Aug 2026 11:08:56 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.54
+    },
+    {
+      "title": "A101'e koşullu CarrefourSA izni",
+      "summary": "A101'in CarrefourSA'yı devralması işlemine koşullu olarak izin verildi.",
+      "link": "https://www.bloomberght.com/a101-e-kosullu-carrefoursa-izni-3784865",
+      "published": "Thu, 06 Aug 2026 08:21:26 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.78
+    },
+    {
+      "title": "AR-GE'ye geçen yıl 253,5 milyar lira harcandı",
+      "summary": "Türkiye'de merkezi yönetim bütçesinden araştırma ve geliştirme (AR-GE) faaliyetleri için geçen yıl 253 milyar 544 milyon lira harcama yapıldı.",
+      "link": "https://www.bloomberght.com/ar-ge-ye-gecen-yil-253-5-milyar-lira-harcandi-3784861",
+      "published": "Thu, 06 Aug 2026 08:02:22 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.52
+    },
+    {
+      "title": "Roundup davalarının Bayer'e maliyeti 10 milyar doları aştı",
+      "summary": "Bayer, 2018’de Monsanto’yu satın almasıyla Roundup’a ilişkin hukuki sorunları da devraldı. Davaların Bayer’e bugüne kadarki maliyeti 10 milyar doları aştı.",
+      "link": "https://www.bloomberght.com/roundup-davalarinin-bayer-e-maliyeti-10-milyar-dolari-asti-3784856",
+      "published": "Thu, 06 Aug 2026 06:53:42 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.74
+    },
+    {
+      "title": "Wall Street’te hedge fonlara siber saldırı",
+      "summary": "Konuya yakın kaynaklara göre, son günlerde Wall Street şirketleri gelişmiş bir siber saldırı dalgasının hedefi haline geldi. Kaynaklardan birinin verdiği bilgiye göre, Point72 Asset Management, çarşamba günü yatırımcılarını saldırıya uğradığı konusunda bilgilendirdi. Ancak hedge fonunun ilk değerlen",
+      "link": "https://www.bloomberght.com/wall-streette-hedge-fonlara-siber-saldiri--3784855",
+      "published": "Thu, 06 Aug 2026 06:47:20 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.98
+    },
+    {
+      "title": "Küresel piyasalarda Hürmüz soruları",
+      "summary": "İran, Umman ile Hürmüz Boğazı’ndaki deniz taşımacılığı konusunda anlaşmaya varıldığını açıkladı.",
+      "link": "https://www.bloomberght.com/kuresel-piyasalarda-hurmuz-sorulari-3784850",
+      "published": "Thu, 06 Aug 2026 06:11:10 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.79
+    },
+    {
+      "title": "'ABD'yi sat' teması yeniden gündemde",
+      "summary": "Tahvil ve döviz yatırımcıları, son dönemde alınan bazı tartışmalı politika kararlarının ardından 'ABD’yi sat' temasını yeniden gündeme almayı değerlendiriyor.",
+      "link": "https://www.bloomberght.com/abd-yi-sat-temasi-yeniden-gundemde-3784847",
+      "published": "Thu, 06 Aug 2026 06:02:44 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.7
+    },
+    {
+      "title": "Fed yetkililerinden şahin açıklamalar",
+      "summary": "Minneapolis Fed Başkanı Neel Kashkari, hala çok yüksek seviyelerde seyreden enflasyonu dizginlemek için ABD merkez bankasının faiz oranlarını şimdiden kademeli olarak artırmaya başlaması gerektiğini söyledi.",
+      "link": "https://www.bloomberght.com/fed-yetkililerinden-sahin-aciklamalar-3784846",
+      "published": "Thu, 06 Aug 2026 05:53:04 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.96
+    },
+    {
+      "title": "Honda, Nisan-Haziran 2026 çeyreğinde net karını iki kattan fazla artırdı",
+      "summary": "Honda Motor'un Nisan-Haziran 2026 dönemi net karı, önceki mali yılın aynı dönemine kıyasla iki kattan fazla artarak 450,9 milyar yene (2,86 milyar dolar) çıktı.",
+      "link": "https://www.bloomberght.com/honda-nisan-haziran-2026-ceyreginde-net-karini-iki-kattan-fazla-artirdi-3784845",
+      "published": "Thu, 06 Aug 2026 05:57:21 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.84
+    },
+    {
+      "title": "İran’a Hürmüz Boğazı’nda kontrol yetkisi verecek anlaşma masada",
+      "summary": "Reuters’ın görüştüğü kaynaklara göre İran ile Umman arasında müzakere edilen anlaşma taslağı, Hürmüz Boğazı üzerinden Körfez’e giriş yapan gemilerin kontrolünün Tahran’a verilmesini öngörüyor.",
+      "link": "https://www.bloomberght.com/irana-hurmuz-bogazinda-kontrol-yetkisi-verecek-anlasma-masada-3784838",
+      "published": "Thu, 06 Aug 2026 04:15:28 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.73
+    },
+    {
+      "title": "Altın yedi haftanın zirvesinde",
+      "summary": "Altın perşembe günü üst üste dördüncü işlem gününde de yükselerek son yedi haftanın en yüksek seviyesine ulaştı.",
+      "link": "https://www.bloomberght.com/altin-yedi-haftanin-zirvesinde-3784837",
+      "published": "Thu, 06 Aug 2026 03:41:37 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.95
+    },
+    {
+      "title": "Petrol, İran-Umman görüşmelerindeki ilerleme sinyalleriyle geriledi",
+      "summary": "Petrol perşembe günü, İran ile Umman arasında yürütülen görüşmelerin ABD ile İran arasında bir barış anlaşmasının önünü açabileceği ve Hürmüz Boğazı’nın yeniden ulaşıma açılabileceği beklentilerinin etkisiyle geriledi.",
+      "link": "https://www.bloomberght.com/petrol-iran-umman-gorusmelerindeki-ilerleme-sinyalleriyle-geriledi-3784836",
+      "published": "Thu, 06 Aug 2026 03:32:33 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.98
+    },
+    {
+      "title": "Google'ın yapay zeka biriminde üst düzey görev değişimi: Türk yöneticiye terfi",
+      "summary": "ABD merkezli teknoloji şirketi Google, yapay zeka birimi Google DeepMind'ın üst düzey liderlik kadrosunda değişikliğe gitti.",
+      "link": "https://www.bloomberght.com/google-in-yapay-zeka-biriminde-ust-duzey-gorev-degisimi-3784835",
+      "published": "Thu, 06 Aug 2026 03:26:38 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.95
+    },
+    {
+      "title": "Trump, İran'la anlaşmayı tercih ettiğini ancak askeri saldırının hala bir seçenek olduğunu belirtti",
+      "summary": "ABD Başkanı Donald Trump, İran'la bir anlaşma yapmayı tercih ettiğini ancak diplomasinin başarısız olması halinde \"güç kullanımının hala bir seçenek olduğunu\" söyledi.",
+      "link": "https://www.bloomberght.com/trump-iran-la-anlasmayi-tercih-ettigini-ancak-askeri-saldirinin-hala-bir-secenek-oldugunu-belirtti-3784834",
+      "published": "Thu, 06 Aug 2026 03:23:05 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.88
+    },
+    {
+      "title": "Ekonomi ve siyaset gündemi- 6 Ağustos 2026",
+      "summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-6-agustos-2026-3784833",
+      "published": "Thu, 06 Aug 2026 03:19:52 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.95
+    },
+    {
+      "title": "Gram altında son durum ne? 6 Ağustos 2026 Perşembe altın fiyatları…",
+      "summary": "Gram altın 6.513,90 liradan, çeyrek altın 10.650,22 liradan satılıyor. Altının ons fiyatı ise 4,256 dolardan işlem görüyor. Güncel gram altın ve çeyrek altın fiyatları ile diğer altın fiyatlarındaki anlık gelişmeler ve diğer tüm merak edilenler bu sayfada....",
+      "link": "https://www.bloomberght.com/gram-altinda-son-durum-ne-6-agustos-2026-persembe-altin-fiyatlari-pkh1-3784859",
+      "published": "Thu, 06 Aug 2026 07:00:01 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.64
+    },
+    {
+      "title": "Dolar ve Euro kuru bugün ne kadar oldu? 6 Ağustos 2026 döviz fiyatları…",
+      "summary": "Serbest piyasada dolar 47.5954 liradan güne başladı. Euro ise 55.0712 lirayı gördü. Dolar, euro ve diğer döviz kurlarıyla ile ilgili en son gelişmeler hakkında aradığınız tüm detayları; 1 dolar/euro kaç TL, dolar/euro ne kadar? gibi merak edilenleri sayfamızda bulabilirsiniz...",
+      "link": "https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-6-agustos-2026-doviz-fiyatlari-pkh2-3784852",
+      "published": "Thu, 06 Aug 2026 06:30:01 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.99
+    },
+    {
+      "title": "Resmi Gazete'de bugün (06.08.2026)",
+      "summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-06082026-3784832",
+      "published": "Wed, 05 Aug 2026 21:14:20 +0000",
+      "source": "BloombergHT.COM",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.82
+    },
+    {
+      "title": "Güneş enerjisinde tüm zamanların rekoru",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t120247-kl7u_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Türkiye&amp;#039;de güneş enerjisinden elektrik üretimi temmuzda aylık bazda yüzde 10,",
+      "link": "https://www.dunya.com/enerji/gunes-enerjisinde-tum-zamanlarin-rekoru-haberi-837148",
+      "published": "Fri, 21 Aug 2026 12:01:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.97
+    },
+    {
+      "title": "135 bin boncukla 3,5 ayda hazırladı: Osimhen'e özel hediye",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/erzurum-osimhen7-gf7x_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Muş&amp;#039;ta görev yapan el sanatları usta öğreticisi ve fanatik Galatasaray taraftarı Sümeyye ",
+      "link": "https://www.dunya.com/foto-galeri/spor/135-bin-boncukla-35-ayda-hazirladi-osimhene-ozel-hediye-galeri-837147",
+      "published": "Fri, 21 Aug 2026 11:57:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.59
+    },
+    {
+      "title": "Bakanlıktan iki ürün için toplatma kararı: Bu LED lamba ve televizyonu kullanmayın",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-ozrl_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Sanayi ve Teknoloji Bakanlığı İstanbul İl Müdürlüğü, yapılan denetimlerin ardından bir LED lamba ile 32 ",
+      "link": "https://www.dunya.com/ekonomi/bakanliktan-iki-urun-icin-toplatma-karari-bu-led-lamba-ve-televizyonu-kullanmayin-haberi-837146",
+      "published": "Fri, 21 Aug 2026 11:48:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.93
+    },
+    {
+      "title": "ÖSYM hafta sonu üç sınav düzenleyecek",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2025/11/12/osym-ugrb_cover.png\" style=\"border: navy 1px solid;\" width=\"160\" />Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığınca, Elektronik Yabancı Dil Sınavı (e-YDS 2026/9 İngilizc",
+      "link": "https://www.dunya.com/egitim/osym-hafta-sonu-uc-sinav-duzenleyecek-haberi-837145",
+      "published": "Fri, 21 Aug 2026 11:46:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.69
+    },
+    {
+      "title": "Dolar dünyada eriyor: TL'de aynı düşüş neden yaşanmıyor?",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-44-fbw7_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Dolar dünya genelinde üç ayın en düşük seviyelerine gerilerken Türkiye&amp;#039;de kur 48 lirayı aştı",
+      "link": "https://www.dunya.com/foto-galeri/ekonomi/dolar-dunyada-eriyor-tlde-ayni-dusus-neden-yasanmiyor-galeri-837144",
+      "published": "Fri, 21 Aug 2026 11:40:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.6
+    },
+    {
+      "title": "Euro Bölgesi'nde bileşik PMI 9 ayın en yükseğine çıktı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2025/06/06/euro-bolgesi-ekonomisi-ilk-ceyrekte-cffr_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Euro Bölgesi&amp;#039;nde bileşik PMI ağustosta 52,1&amp;#039;e yükselerek son ",
+      "link": "https://www.dunya.com/dunya/euro-bolgesinde-bilesik-pmi-9-ayin-en-yuksegine-cikti-haberi-837143",
+      "published": "Fri, 21 Aug 2026 11:34:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.94
+    },
+    {
+      "title": "Ankara’nın altında 2 bin 800 yıllık tarih: Frig tümülüsünde ilk kez kazı başladı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-1-wz69_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Ankara’nın merkezindeki 2 bin 800 yıllık Frig mirası için yeni bir dönem başladı. Bahçelievler-Emek bö",
+      "link": "https://www.dunya.com/sektorler/turizm/ankaranin-altinda-2-bin-800-yillik-tarih-frig-tumulusunde-ilk-kez-kazi-basladi-haberi-837142",
+      "published": "Fri, 21 Aug 2026 11:29:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.55
+    },
+    {
+      "title": "Yunan adalarında konut fiyatları uçuşta",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-nh9a_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Yunanistan’ın gözde adalarında konut fiyatları yükselmeye devam ediyor. Yabancı yatırımcıların güçlü tal",
+      "link": "https://www.dunya.com/sektorler/emlak/yunan-adalarinda-konut-fiyatlari-ucusta-haberi-837141",
+      "published": "Fri, 21 Aug 2026 11:20:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.77
+    },
+    {
+      "title": "Ayşe Ünlüce CHP'den istifa etti: Yeni Parti'ye katıldı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t111918-hi6m_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, CHP üyeliğinden ayrıldığını duyurdu",
+      "link": "https://www.dunya.com/gundem/ayse-unluce-chpden-istifa-etti-yeni-partiye-katildi-haberi-837140",
+      "published": "Fri, 21 Aug 2026 11:17:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.83
+    },
+    {
+      "title": "Ünlü ekonomist Bitcoin’deki yükselişe 'sahte' dedi: Yeni yatırım rotasını gösterdi",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/gorsel-2026-08-21-111045297-scqi_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Bitcoin’in 72 bin doların üzerine çıkmasının ardından ünlü ekonomist Peter Schiff’ten d",
+      "link": "https://www.dunya.com/foto-galeri/ekonomi/unlu-ekonomist-bitcoindeki-yukselise-sahte-dedi-yeni-yatirim-rotasini-gosterdi-galeri-837139",
+      "published": "Fri, 21 Aug 2026 11:01:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.76
+    },
+    {
+      "title": "Göztepe taraftar grupları Yalı ve Forza'ya operasyon: 28 gözaltı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/izmir-gozalti-7sjj_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />İzmir Cumhuriyet Başsavcılığı tarafından Göztepe&amp;#039;nin Yalı ve Forza taraftar gruplarında yer ",
+      "link": "https://www.dunya.com/gundem/goztepe-taraftar-gruplari-yali-ve-forzaya-operasyon-28-gozalti-haberi-837137",
+      "published": "Fri, 21 Aug 2026 10:43:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.53
+    },
+    {
+      "title": "Adalet Bakanı Gürlek: Turizm alanları ve tribünler suç için kullanılamaz",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/10/akin1-tsfl_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />İstanbul ve İzmir’de organize suç örgütlerine yönelik geniş çaplı operasyonlar düzenlendi. Adalet Bakanı Akın",
+      "link": "https://www.dunya.com/gundem/adalet-bakani-gurlek-turizm-alanlari-ve-tribunler-suc-icin-kullanilamaz-haberi-837136",
+      "published": "Fri, 21 Aug 2026 10:38:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.87
+    },
+    {
+      "title": "Link Bilgisayar'dan yapay zeka alanında yeni iş birliği",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/gorsel-2026-08-21-103557280-spll_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Link Bilgisayar, Sistem Global ile Türk hukukuna özel geliştirilen yapay zeka tabanlı h",
+      "link": "https://www.dunya.com/sektorler/link-bilgisayardan-yapay-zeka-alaninda-yeni-is-birligi-haberi-837135",
+      "published": "Fri, 21 Aug 2026 10:35:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.7
+    },
+    {
+      "title": "Hilmi Tuna Kuriş yakalandı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-4-s7em_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Ankara Cumhuriyet Başsavcılığı’nın yürüttüğü Alihan Kuriş suç örgütü soruşturması kapsamında aranan ve",
+      "link": "https://www.dunya.com/gundem/hilmi-tuna-kuris-yakalandi-haberi-837134",
+      "published": "Fri, 21 Aug 2026 10:33:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.92
+    },
+    {
+      "title": "Belediye başkanına bisiklet çaptı kentte bisiklet yasaklandı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t105749-4wvc_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />İtalya&amp;#039;nın Como kentinde belediye başkanına elektrikli bisiklet çarpınca kent",
+      "link": "https://www.dunya.com/dunya/belediye-baskanina-bisiklet-capti-kentte-bisiklet-yasaklandi-haberi-837138",
+      "published": "Fri, 21 Aug 2026 10:32:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.75
+    },
+    {
+      "title": "Petrol fiyatları geriledi: Brent 93 dolara çekildi",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/07/20/petrol-varili-ywsq_cover.png\" style=\"border: navy 1px solid;\" width=\"160\" />Brent petrolün varil fiyatı, Hürmüz Boğazı&amp;#039;ndan petrol akışının arttığına yönelik haberler, ",
+      "link": "https://www.dunya.com/dunya/petrol-fiyatlari-geriledi-brent-93-dolara-cekildi-haberi-837133",
+      "published": "Fri, 21 Aug 2026 10:27:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.93
+    },
+    {
+      "title": "Kurulan şirket sayısı yıllık bazda artarken kapanışlar ise temmuzda hızlandı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/gorsel-2026-08-21-102322464-8txy_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Türkiye Odalar ve Borsalar Birliği (TOBB) verilerine göre, Temmuz 2026&amp;#039;da kuru",
+      "link": "https://www.dunya.com/ekonomi/kurulan-sirket-sayisi-yillik-bazda-artarken-kapanislar-ise-temmuzda-hizlandi-haberi-837132",
+      "published": "Fri, 21 Aug 2026 10:20:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.6
+    },
+    {
+      "title": "Sanayide çarklar yavaşladı: Kapasite kullanımı düştü",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2021/04/15/kapasite-8HSO_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />İmalat sanayinde kapasite kullanım oranı ağustos ayında 0,3 puan azalarak yüzde 73,5&amp;#039;e geriledi.",
+      "link": "https://www.dunya.com/ekonomi/sanayide-carklar-yavasladi-kapasite-kullanimi-dustu-haberi-837130",
+      "published": "Fri, 21 Aug 2026 10:16:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.99
+    },
+    {
+      "title": "Yapı ruhsatlarında düşüş: Daire sayısı yüzde 9,5 azaldı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2025/12/10/insaat-maliyet-endeksi-jmel_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Türkiye&amp;#039;de 2026&amp;#039;nın ikinci çeyreğinde yapı ruhsatı verilen bina sayısı yıl",
+      "link": "https://www.dunya.com/ekonomik-veriler/yapi-ruhsatlarinda-dusus-daire-sayisi-yuzde-95-azaldi-haberi-837131",
+      "published": "Fri, 21 Aug 2026 10:11:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.86
+    },
+    {
+      "title": "İşgücü piyasasında yeni tablo: Ücretler yüzde 35,8 arttı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/gorsel-2026-08-21-100436751-qqc9_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />TÜİK verilerine göre 2026&amp;#039;nın ikinci çeyreğinde istihdam endeksi yıllık yüzde ",
+      "link": "https://www.dunya.com/ekonomik-veriler/isgucu-piyasasinda-yeni-tablo-ucretler-yuzde-358-artti-haberi-837127",
+      "published": "Fri, 21 Aug 2026 10:03:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.92
+    },
+    {
+      "title": "Reel kesimden ağustosta olumlu sinyal: Güven yeniden yükseldi",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t102002-pij8_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Türkiye Cumhuriyet Merkez Bankası (TCMB) verilerine göre, reel kesim güveni ağustosta ",
+      "link": "https://www.dunya.com/ekonomi/reel-kesimden-agustosta-olumlu-sinyal-guven-yeniden-yukseldi-haberi-837128",
+      "published": "Fri, 21 Aug 2026 10:00:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.62
+    },
+    {
+      "title": "Tüketici güven endeksi ağustosta yükseldi",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/05/enflasyon-7l6x_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />TÜİK ve Türkiye Cumhuriyet Merkez Bankası işbirliğiyle yürütülen tüketici eğilim anketinin sonuçlarına gö",
+      "link": "https://www.dunya.com/ekonomik-veriler/tuketici-guven-endeksi-agustosta-yukseldi-haberi-837126",
+      "published": "Fri, 21 Aug 2026 09:59:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.8
+    },
+    {
+      "title": "Gümrüklerde kaçakçılığa geçit yok: İlk 7 ayda 71,9 milyar liralık yakalama",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t095531-dpgc_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Ticaret Bakanlığı, Gümrükler Muhafaza ekiplerinin 2026&amp;#039;nın ilk 7 ayında 3 bin",
+      "link": "https://www.dunya.com/ekonomi/gumruklerde-kacakciliga-gecit-yok-ilk-7-ayda-719-milyar-liralik-yakalama-haberi-837125",
+      "published": "Fri, 21 Aug 2026 09:55:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.8
+    },
+    {
+      "title": "Mide bulandıran liste: Pideden kalp, sucuktan baş çıktı!",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-1-yq0t_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Tarım ve Orman Bakanlığı, taklit ve tağşiş yapılan gıdalar listesini 20 Ağustos 2026’da güncelledi. Li",
+      "link": "https://www.dunya.com/saglik/mide-bulandiran-liste-pideden-kalp-sucuktan-bas-cikti-haberi-837129",
+      "published": "Fri, 21 Aug 2026 09:55:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.98
+    },
+    {
+      "title": "Aisha Wahab, ABD Kongresine seçilen ilk Afgan kökenli siyasetçi oldu",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/aisha-wahab-68sk_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />ABD&amp;#039;nin California eyaletinde düzenlenen özel seçimi kazanan Aisha Wahab, ABD Kongresine seçil",
+      "link": "https://www.dunya.com/dunya/aisha-wahab-abd-kongresine-secilen-ilk-afgan-kokenli-siyasetci-oldu-haberi-837123",
+      "published": "Fri, 21 Aug 2026 09:50:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.96
+    },
+    {
+      "title": "Rusya-Ukrayna gerilimi Zaporijya Nükleer Güç Santrali'nin güvenliğini zorluyor",
+      "summary": "Avrupa'nın en büyük nükleer santrali Zaporijya Nükleer Güç Santrali'nde (NGS) sıklaşan elektrik kesintileri, çevresindeki saldırılar, personel kayıpları ve yakıt ikmalindeki güçlükler tesis güvenliğinin korunmasını giderek güçleştiriyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/rusya-ukrayna-gerilimi-zaporijya-nukleer-guc-santralinin-guvenligini-zorluyor/4033584",
+      "published": "Fri, 21 Aug 2026 11:23:11 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.94
+    },
+    {
+      "title": "İmalat sanayisinde kapasite kullanım oranı ağustosta yüzde 73,5 oldu",
+      "summary": "İmalat sanayisi genelinde mevsimsel etkilerden arındırılmamış kapasite kullanım oranı, ağustosta geçen aya göre 0,4 puan azalarak yüzde 73,5 oldu.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/imalat-sanayisinde-kapasite-kullanim-orani-agustosta-yuzde-73-5-oldu/4033585",
+      "published": "Fri, 21 Aug 2026 11:23:27 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.83
+    },
+    {
+      "title": "TEKNOFEST Mavi Vatan, savunma sanayisine genç yetenekler kazandırıyor",
+      "summary": "TEKNOFEST Mavi Vatan, üniversitelerde eğitim gören gençlerin mühendislik bilgi ve birikimlerini gerçek projelere dönüştürmelerine imkan sunarken geliştirdikleri yenilikçi su altı araçlarıyla savunma sanayisine nitelikli insan kaynağı kazandırıyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/teknofest-mavi-vatan-savunma-sanayisine-genc-yetenekler-kazandiriyor/4033565",
+      "published": "Fri, 21 Aug 2026 11:11:39 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.83
+    },
+    {
+      "title": "Milli zırhlı amfibi aracın başarısı insansızına kapı açtı",
+      "summary": "FNSS Genel Müdürü ve Yönetim Kurulu Üyesi Selim Baybaş, Türk Silahlı Kuvvetlerinin envanterinde olan ZAHA Zırhlı Amfibi Hücum Aracı'nın, donanma ve çıkarma kuvvetlerinde önemli bir çarpan etkisi oluşturduğunu vurguladı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/milli-zirhli-amfibi-aracin-basarisi-insansizina-kapi-acti/4033524",
+      "published": "Fri, 21 Aug 2026 11:00:36 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.55
+    },
+    {
+      "title": "Vergi dairelerine olan borçların taksitlendirilmesi imkanından yararlanmak için son 10 gün",
+      "summary": "Vergi dairelerine olan borçların 72 aya kadar taksitlendirilmesine imkan sağlayan düzenlemeden faydalanmak için 31 Ağustos Pazartesi gününe kadar başvuru yapılması önem taşıyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/vergi-dairelerine-olan-borclarin-taksitlendirilmesi-imkanindan-yararlanmak-icin-son-10-gun/4033547",
+      "published": "Fri, 21 Aug 2026 11:05:21 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.83
+    },
+    {
+      "title": "ABD'nin kamu borcu çeyrek asırda 7 katına çıktı",
+      "summary": "ABD'nin toplam kamu borcu, artan savunma harcamaları, 2008 finansal krizi ve Kovid-19 salgını sırasında uygulanan destek paketleri ile vergi indirimlerinin bütçe açıklarını artırması sonucu çeyrek asırda yaklaşık 7 katına çıktı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/abdnin-kamu-borcu-ceyrek-asirda-7-katina-cikti/4033529",
+      "published": "Fri, 21 Aug 2026 11:01:53 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.99
+    },
+    {
+      "title": "Güneşten elektrik üretimi temmuzda rekor kırdı",
+      "summary": "Türkiye'de güneşten elektrik üretimi temmuzda bir önceki aya göre yüzde 10,2 artarak 5,4 teravatsaatle tüm zamanların en yüksek seviyesine ulaştı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/gunesten-elektrik-uretimi-temmuzda-rekor-kirdi/4033531",
+      "published": "Fri, 21 Aug 2026 11:02:57 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.9
+    },
+    {
+      "title": "Reel Kesim Güven Endeksi ağustosta 102,4'e yükseldi",
+      "summary": "Mevsimsellikten arındırılmış Reel Kesim Güven Endeksi (RKGE), ağustosta 1,2 puan artarak 102,4 seviyesine çıktı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/reel-kesim-guven-endeksi-agustosta-102-4e-yukseldi/4033516",
+      "published": "Fri, 21 Aug 2026 10:58:04 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.64
+    },
+    {
+      "title": "Yapı ruhsatı verilen bina sayısı yılın ikinci çeyreğinde yüzde 2 azaldı",
+      "summary": "Yapı ruhsatı verilen bina sayısı, nisan-haziran döneminde geçen yılın aynı dönemine kıyasla yüzde 2 azalış gösterdi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/yapi-ruhsati-verilen-bina-sayisi-yilin-ikinci-ceyreginde-yuzde-2-azaldi/4033512",
+      "published": "Fri, 21 Aug 2026 10:51:27 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.98
+    },
+    {
+      "title": "Karadeniz gazında tarihi keşfin üzerinden 6 yıl geçti",
+      "summary": "Türkiye'nin Karadeniz'de gerçekleştirdiği Cumhuriyet tarihinin en büyük doğal gaz keşfinin üzerinden 6 yıl geçti.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/karadeniz-gazinda-tarihi-kesfin-uzerinden-6-yil-gecti/4033504",
+      "published": "Fri, 21 Aug 2026 10:43:21 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.84
+    },
+    {
+      "title": "İş gücü girdi endeksleri açıklandı",
+      "summary": "Sanayi, inşaat ve ticaret-hizmet sektörleri toplamında istihdam endeksi, yılın ikinci çeyreğinde yıllık bazda yüzde 1,7 yükseldi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/is-gucu-girdi-endeksleri-aciklandi/4033500",
+      "published": "Fri, 21 Aug 2026 10:40:51 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.78
+    },
+    {
+      "title": "Tüketici güven endeksi ağustosta aylık bazda yüzde 1 artarak 90,8 oldu",
+      "summary": "Tüketici güven endeksi, ağustosta aylık bazda yüzde 1 artışla 90,8'e çıktı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/tuketici-guven-endeksi-agustosta-aylik-bazda-yuzde-1-artarak-90-8-oldu/4033476",
+      "published": "Fri, 21 Aug 2026 10:15:50 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.82
+    },
+    {
+      "title": "Borsa güne yatay başladı",
+      "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yatay seyirle 14.396,69 puandan başladı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yatay-basladi/4033455",
+      "published": "Fri, 21 Aug 2026 10:00:27 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.51
+    },
+    {
+      "title": "Küresel piyasalarda tahvil piyasalarına ilişkin belirsizlik devam ediyor",
+      "summary": "Küresel piyasalar, ABD Hazine Bakanlığının uzun vadeli tahvil geri alım operasyonlarının büyüklüğünü artırma kararının, tahvil piyasalarında geçici bir rahatlama sağlayabileceği beklentisiyle karışık seyrediyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-tahvil-piyasalarina-iliskin-belirsizlik-devam-ediyor/4033412",
+      "published": "Fri, 21 Aug 2026 09:04:47 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.93
+    },
+    {
+      "title": "Sinop'ta av sezonuna hazırlanan balıkçılar bereketli bir sezon geçirmeyi umut ediyor",
+      "summary": "Üç tarafı denizle çevrili Sinop'ta balıkçılar, 1 Eylül'de başlayacak av sezonu için hazırlıklarını sürdürüyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/sinopta-av-sezonuna-hazirlanan-balikcilar-bereketli-bir-sezon-gecirmeyi-umut-ediyor/4033356",
+      "published": "Fri, 21 Aug 2026 00:22:44 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.79
+    },
+    {
+      "title": "Ticaret Bakanı Bolat: Enflasyonla mücadelede yüzde 75-80'lerden yüzde 30'a kadar gerilettik",
+      "summary": "Ticaret Bakanı Ömer Bolat, \"Enflasyonla mücadelede yüzde 75-80'lerden yüzde 30'a kadar gerilettik.\" diye konuştu.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-enflasyonla-mucadelede-yuzde-75-80lerden-yuzde-30a-kadar-gerilettik/4033175",
+      "published": "Thu, 20 Aug 2026 19:46:15 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.79
+    },
+    {
+      "title": "ABD'den Katar'a 4,5 milyar dolarlık yakıt ikmal uçağı satışına onay",
+      "summary": "ABD Dışişleri Bakanlığı, Katar'a 4,5 milyar dolarlık KC-46A havada yakıt ikmal uçağı ve ilgili ekipman satışını onayladı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/abdden-katara-4-5-milyar-dolarlik-yakit-ikmal-ucagi-satisina-onay/4033157",
+      "published": "Thu, 20 Aug 2026 19:20:23 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.89
+    },
+    {
+      "title": "Borsa günü düşüşle tamamladı",
+      "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,43 değer kaybederek 14.396,54 puandan tamamladı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4033121",
+      "published": "Thu, 20 Aug 2026 18:25:10 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.76
+    },
+    {
+      "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Sulama yatırımlarını ciddi ölçüde artırmış durumdayız",
+      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Sulama başta olmak üzere gıda üretimini, arzını artırıcı yatırımları çok daha yoğun bir şekilde gerçekleştirmemiz gerekiyor. Bu çerçevede sulama yatırımlarını ciddi ölçüde artırmış durumdayız.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-sulama-yatirimlarini-ciddi-olcude-artirmis-durumdayiz/4033098",
+      "published": "Thu, 20 Aug 2026 18:02:37 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.93
+    },
+    {
+      "title": "60 saniyede ekonomide bugün (20 Ağustos 2026)",
+      "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
+      "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-20-agustos-2026/4032967",
+      "published": "Thu, 20 Aug 2026 16:09:52 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [
+        "HALKB"
+      ],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.99
+    },
+    {
+      "title": "Toplam sanayi üretici fiyat endeksi temmuzda aylık yüzde 1,83, yıllık yüzde 28,4 arttı",
+      "summary": "Toplam sanayi üretici fiyat endeksi, temmuzda aylık bazda yüzde 1,83, yıllık bazda yüzde 28,4 artış kaydetti.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/toplam-sanayi-uretici-fiyat-endeksi-temmuzda-aylik-yuzde-1-83-yillik-yuzde-28-4-artti/4032997",
+      "published": "Thu, 20 Aug 2026 16:34:32 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.76
+    },
+    {
+      "title": "ABD'de işsizlik maaşı başvuruları azaldı",
+      "summary": "ABD'de ilk kez işsizlik maaşına başvuranların sayısı, 15 Ağustos ile biten haftada 206 bine inerek piyasa beklentilerinin altında gerçekleşti.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/abdde-issizlik-maasi-basvurulari-azaldi/4032941",
+      "published": "Thu, 20 Aug 2026 15:49:56 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.98
+    },
+    {
+      "title": "ASELSAN Genel Müdürü Akyol: Güçlü bir donanmaya her zamankinden daha fazla ihtiyaç var",
+      "summary": "ASELSAN Genel Müdürü Ahmet Akyol, Türkiye'nin bulunduğu coğrafyada denizlerin ve donanmanın ülke açısından stratejik önem taşıdığına dikkati çekerek, \"Güçlü bir donanmaya her zamankinden daha fazla ihtiyaç var.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/aselsan-genel-muduru-akyol-guclu-bir-donanmaya-her-zamankinden-daha-fazla-ihtiyac-var/4032833",
+      "published": "Thu, 20 Aug 2026 14:51:51 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [
+        "ASELS"
+      ],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.62
+    },
+    {
+      "title": "Merkez Bankası rezervleri 183,5 milyar dolara yükseldi",
+      "summary": "Türkiye Cumhuriyet Merkez Bankasının (TCMB) toplam rezervleri, 14 Ağustos haftasında bir önceki haftaya göre 5 milyar 134 milyon dolar artarak 183,5 milyar dolara çıktı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-183-5-milyar-dolara-yukseldi/4032884",
+      "published": "Thu, 20 Aug 2026 15:16:33 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.89
+    },
+    {
+      "title": "Ticaret Bakanı Bolat: İhracatta son 38 ayın 28'inde aylık rekorlar kırdık",
+      "summary": "Ticaret Bakanı Ömer Bolat, ihracatın her ay genel anlamda artış gösterdiğini vurgulayarak, \"Son 38 ayın 28'inde aylık rekorlar kırdık. 38 ayın 21'inde de aylık artışlarımız oldu.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-ihracatta-son-38-ayin-28inde-aylik-rekorlar-kirdik/4032593",
+      "published": "Thu, 20 Aug 2026 12:39:16 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.73
+    },
+    {
+      "title": "Bakan Şimşek: Düşük borçluluk ülke ekonomisinin direncini artıran önemli bir unsur",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, düşük borçluluğun, ülke ekonomisinin direncini artıran önemli bir unsur olduğunu belirtti.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-dusuk-borcluluk-ulke-ekonomisinin-direncini-artiran-onemli-bir-unsur/4032829",
+      "published": "Thu, 20 Aug 2026 14:49:15 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.58
+    },
+    {
+      "title": "Bankacılık sektörünün mevduatı geçen hafta arttı",
+      "summary": "Bankacılık sektörünün toplam mevduatı, 14 Ağustos ile biten haftada bir önceki haftaya göre 448 milyar 41 milyon 211 bin lira artışla 33 trilyon 243 milyar 290 milyon 650 bin liraya yükseldi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/bankacilik-sektorunun-mevduati-gecen-hafta-artti/4032824",
+      "published": "Thu, 20 Aug 2026 14:47:25 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.55
+    },
+    {
+      "title": "ABD Hazinesinin tahvillerdeki geri alım hamlesinin etkisinin kalıcı olması beklenmiyor",
+      "summary": "ABD Hazinesinin uzun vadeli tahvil geri alım operasyonunun büyüklüğünü artırmasının pozitif etkisinin tahvil piyasasında satış baskısının azalmasına karşı yüksek kamu harcaması ve enflasyonist baskının devam etmesi nedeniyle geçici olması bekleniyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/abd-hazinesinin-tahvillerdeki-geri-alim-hamlesinin-etkisinin-kalici-olmasi-beklenmiyor/4032798",
+      "published": "Thu, 20 Aug 2026 14:33:21 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.99
+    },
+    {
+      "title": "KKM bakiyesinde sona yaklaşıldı",
+      "summary": "Kur korumalı Türk lirası mevduat ve katılma hesapları (KKM), geçen hafta 47 milyon lira azalarak 51 milyon liradan 4 milyon liraya geriledi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/kkm-bakiyesinde-sona-yaklasildi/4032810",
+      "published": "Thu, 20 Aug 2026 14:40:09 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.98
+    },
+    {
+      "title": "Avro Bölgesi'nde inşaat üretimi haziranda azaldı",
+      "summary": "Avro Bölgesi'nde inşaat üretimi, haziran ayında bir önceki aya göre yüzde 1,3 geriledi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/avro-bolgesinde-insaat-uretimi-haziranda-azaldi/4032602",
+      "published": "Thu, 20 Aug 2026 12:49:56 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.97
+    }
+  ]
+}
