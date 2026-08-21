@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pano · BIST Takip</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/lightweight-charts@4.1.3/dist/lightweight-charts.standalone.production.js"></script>
+<style>
+  :root{
+    --bg:#0B1220;
+    --panel:#101A2C;
+    --panel-2:#152238;
+    --line:#233450;
+    --brass:#C9A227;
+    --brass-dim:#8a7220;
+    --up:#2FA88A;
+    --down:#C1443C;
+    --text:#E7ECF3;
+    --text-dim:#8FA0BB;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Inter',sans-serif;
+  }
+  h1,h2,h3,.disp{
+    font-family:'Oswald',sans-serif;
+    letter-spacing:.02em;
+    text-transform:uppercase;
+  }
+  .mono{ font-family:'IBM Plex Mono',monospace; }
+
+  /* --- Kayan tahta (imza öğesi) --- */
+  .tape-wrap{
+    background:#000;
+    border-bottom:1px solid var(--brass-dim);
+    overflow:hidden;
+    white-space:nowrap;
+    padding:10px 0;
+  }
+  .tape{
+    display:inline-block;
+    padding-left:100%;
+    animation:scroll 45s linear infinite;
+  }
+  .tape span{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:14px;
+    margin-right:40px;
+  }
+  .tape .up{ color:var(--up); }
+  .tape .down{ color:var(--down); }
+  @keyframes scroll{
+    0%{ transform:translateX(0); }
+    100%{ transform:translateX(-100%); }
+  }
+
+  header.top{
+    padding:28px 24px 8px;
+    max-width:1180px;
+    margin:0 auto;
+  }
+  header.top h1{
+    font-size:34px;
+    margin:0;
+    color:var(--brass);
+  }
+  header.top p{
+    color:var(--text-dim);
+    margin:6px 0 0;
+    font-size:14px;
+  }
+
+  main{
+    max-width:1180px;
+    margin:0 auto;
+    padding:16px 24px 80px;
+    display:grid;
+    grid-template-columns:1.3fr 1fr;
+    gap:20px;
+  }
+  @media (max-width:900px){ main{ grid-template-columns:1fr; } }
+
+  .panel{
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:4px;
+  }
+  .panel h2{
+    font-size:15px;
+    color:var(--text-dim);
+    margin:0;
+    padding:14px 16px;
+    border-bottom:1px solid var(--line);
+  }
+
+  table{ width:100%; border-collapse:collapse; }
+  th,td{ padding:10px 14px; text-align:right; font-size:13px; }
+  th:first-child, td:first-child{ text-align:left; }
+  th{
+    color:var(--text-dim);
+    font-weight:500;
+    text-transform:uppercase;
+    font-size:11px;
+    letter-spacing:.05em;
+    border-bottom:1px solid var(--line);
+  }
+  tbody tr{ border-bottom:1px solid var(--line); cursor:pointer; }
+  tbody tr:hover{ background:var(--panel-2); }
+  .sym{ font-weight:600; font-family:'IBM Plex Mono',monospace; }
+  .up{ color:var(--up); }
+  .down{ color:var(--down); }
+  .badge{
+    display:inline-block;
+    font-size:10px;
+    padding:2px 8px;
+    border-radius:20px;
+    border:1px solid var(--brass-dim);
+    color:var(--brass);
+  }
+
+  #chart{ height:280px; }
+  .detail-body{ padding:14px 16px; }
+  .detail-body .price-big{ font-size:32px; font-family:'IBM Plex Mono',monospace; }
+  .reasons{ list-style:none; padding:0; margin:10px 0 0; font-size:13px; color:var(--text-dim); }
+  .reasons li{ padding:4px 0; border-top:1px dashed var(--line); }
+  .disclaimer{
+    margin-top:14px;
+    font-size:11px;
+    color:var(--text-dim);
+    border-left:2px solid var(--brass-dim);
+    padding-left:10px;
+  }
+
+  .news-item{ padding:12px 16px; border-bottom:1px solid var(--line); }
+  .news-item:last-child{ border-bottom:none; }
+  .news-item a{ color:var(--text); text-decoration:none; font-size:13px; font-weight:500; }
+  .news-item a:hover{ color:var(--brass); }
+  .news-meta{ font-size:11px; color:var(--text-dim); margin-top:4px; }
+  .news-tags span{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:10px;
+    background:var(--panel-2);
+    border:1px solid var(--line);
+    padding:1px 6px;
+    border-radius:3px;
+    margin-right:4px;
+  }
+  .sent{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:10px;
+    padding:1px 6px;
+    border-radius:3px;
+    margin-right:6px;
+  }
+  .sent.pozitif{ background:rgba(47,168,138,.15); color:var(--up); border:1px solid var(--up); }
+  .sent.negatif{ background:rgba(193,68,60,.15); color:var(--down); border:1px solid var(--down); }
+  .sent.notr, .sent.nötr{ background:var(--panel-2); color:var(--text-dim); border:1px solid var(--line); }
+
+  footer{
+    text-align:center;
+    color:var(--text-dim);
+    font-size:11px;
+    padding:20px;
+  }
+</style>
+</head>
+<body>
+
+<div class="tape-wrap"><div class="tape mono" id="tape">Veri yükleniyor…</div></div>
+
+<header class="top">
+  <h1>Pano</h1>
+  <p>BIST hisseleri · gecikmeli fiyat verisi · otomatik haber eşleştirme · kural tabanlı ön-analiz — <span id="updatedAt"></span></p>
+</header>
+
+<main>
+  <section class="panel">
+    <h2>Hisseler</h2>
+    <table>
+      <thead>
+        <tr><th>Kod</th><th>Son</th><th>Değişim</th><th>Hacim</th><th>Sinyal</th></tr>
+      </thead>
+      <tbody id="stockRows"></tbody>
+    </table>
+  </section>
+
+  <div style="display:flex; flex-direction:column; gap:20px;">
+    <section class="panel">
+      <h2 id="detailTitle">Hisse Detayı</h2>
+      <div class="detail-body">
+        <div class="price-big" id="detailPrice">—</div>
+        <div id="chart"></div>
+        <ul class="reasons" id="detailReasons"></ul>
+        <div class="disclaimer">Bu panelde gösterilen sinyaller kural tabanlı bir ön-analizdir, yatırım tavsiyesi değildir.</div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Gündem — Haberler</h2>
+      <div id="newsList"></div>
+    </section>
+  </div>
+</main>
+
+<footer>Veriler Yahoo Finance ve genel RSS kaynaklarından otomatik çekilir · yatırım tavsiyesi değildir</footer>
+
+<script>
+const DATA_BASE = "data";
+let chart, series, PRICES = {}, ANALYSIS = {}, NEWS = [];
+
+async function loadJSON(name){
+  const res = await fetch(`${DATA_BASE}/${name}.json?_=${Date.now()}`);
+  return res.json();
+}
+
+function fmtPct(v){
+  const s = v > 0 ? `+${v.toFixed(2)}%` : `${v.toFixed(2)}%`;
+  return s;
+}
+
+function renderTape(stocks){
+  const el = document.getElementById('tape');
+  el.innerHTML = stocks.map(s => {
+    const cls = s.changePercent >= 0 ? 'up' : 'down';
+    return `<span class="${cls}">${s.symbol} ${s.price.toFixed(2)} ${fmtPct(s.changePercent)}</span>`;
+  }).join('');
+}
+
+function renderTable(stocks, analysisMap){
+  const tbody = document.getElementById('stockRows');
+  tbody.innerHTML = stocks
+    .slice()
+    .sort((a,b) => b.changePercent - a.changePercent)
+    .map(s => {
+      const cls = s.changePercent >= 0 ? 'up' : 'down';
+      const label = analysisMap[s.symbol]?.label || 'Nötr';
+      return `<tr onclick="showDetail('${s.symbol}')">
+        <td class="sym">${s.symbol}</td>
+        <td class="mono">${s.price.toFixed(2)}</td>
+        <td class="mono ${cls}">${fmtPct(s.changePercent)}</td>
+        <td class="mono">${s.volume.toLocaleString('tr-TR')}</td>
+        <td><span class="badge">${label}</span></td>
+      </tr>`;
+    }).join('');
+}
+
+function renderNews(items, filterSymbol){
+  const list = filterSymbol ? items.filter(n => n.tickers.includes(filterSymbol)) : items;
+  const el = document.getElementById('newsList');
+  if(!list.length){
+    el.innerHTML = `<div class="news-item">Bu hisseyle eşleşen haber bulunamadı.</div>`;
+    return;
+  }
+  el.innerHTML = list.slice(0,20).map(n => `
+    <div class="news-item">
+      <span class="sent ${n.sentiment || 'nötr'}">${n.sentiment || 'nötr'}</span>
+      <a href="${n.link}" target="_blank" rel="noopener">${n.title}</a>
+      <div class="news-meta">${n.source} · ${n.published || ''}</div>
+      <div class="news-tags">${n.tickers.map(t => `<span>${t}</span>`).join('')}</div>
+    </div>
+  `).join('');
+}
+
+function ensureChart(){
+  if(chart) return;
+  chart = LightweightCharts.createChart(document.getElementById('chart'), {
+    layout:{ background:{color:'transparent'}, textColor:'#8FA0BB' },
+    grid:{ vertLines:{color:'#233450'}, horzLines:{color:'#233450'} },
+    rightPriceScale:{ borderColor:'#233450' },
+    timeScale:{ borderColor:'#233450' },
+    height:280,
+  });
+  series = chart.addCandlestickSeries({
+    upColor:'#2FA88A', downColor:'#C1443C',
+    borderVisible:false,
+    wickUpColor:'#2FA88A', wickDownColor:'#C1443C',
+  });
+}
+
+function showDetail(symbol){
+  const stock = PRICES[symbol];
+  const analysis = ANALYSIS[symbol];
+  if(!stock) return;
+
+  document.getElementById('detailTitle').textContent = `${symbol} — Detay`;
+  document.getElementById('detailPrice').innerHTML =
+    `${stock.price.toFixed(2)} ₺ <span class="${stock.changePercent>=0?'up':'down'}" style="font-size:16px">${fmtPct(stock.changePercent)}</span>`;
+
+  ensureChart();
+  series.setData(stock.history.map(h => ({
+    time:h.date, open:h.open, high:h.high, low:h.low, close:h.close,
+  })));
+
+  const reasonsEl = document.getElementById('detailReasons');
+  if(analysis){
+    reasonsEl.innerHTML = analysis.reasons.map(r => `<li>${r}</li>`).join('')
+      + `<li><strong>RSI:</strong> ${analysis.rsi ?? '—'} · <strong>Haber sayısı:</strong> ${analysis.newsCount}</li>`;
+  } else {
+    reasonsEl.innerHTML = '<li>Analiz verisi henüz oluşmadı.</li>';
+  }
+
+  renderNews(NEWS, symbol);
+}
+
+async function init(){
+  try{
+    const [pricesData, newsData, analysisData] = await Promise.all([
+      loadJSON('prices'), loadJSON('news'), loadJSON('analysis'),
+    ]);
+
+    pricesData.stocks.forEach(s => PRICES[s.symbol] = s);
+    analysisData.analysis.forEach(a => ANALYSIS[a.symbol] = a);
+    NEWS = newsData.items;
+
+    document.getElementById('updatedAt').textContent =
+      `son güncelleme: ${new Date(pricesData.updatedAt).toLocaleString('tr-TR')}`;
+
+    renderTape(pricesData.stocks);
+    renderTable(pricesData.stocks, ANALYSIS);
+    renderNews(NEWS);
+
+    if(pricesData.stocks[0]) showDetail(pricesData.stocks[0].symbol);
+  } catch(e){
+    document.getElementById('stockRows').innerHTML =
+      `<tr><td colspan="5">Veri henüz üretilmedi. Önce scripts/ altındaki dosyaları çalıştır veya GitHub Actions'ın ilk koşusunu bekle.</td></tr>`;
+    console.error(e);
+  }
+}
+
+init();
+</script>
+</body>
+</html>
