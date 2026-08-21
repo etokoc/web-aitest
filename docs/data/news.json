@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:03:35.608566+00:00",
+  "updatedAt": "2026-08-21T09:52:12.352908+00:00",
   "items": [
     {
       "title": "Borsa İstanbul’da gong Quick Sigorta için çaldı",
@@ -202,6 +202,26 @@
       "sentimentScore": 0.82
     },
     {
+      "title": "Bitcoin'de beklenmedik sıçrama: Düşüşe oynayanlar ağır darbe aldı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/03/bitcoin-3qc9_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Bitcoin, ABD tahvil faizleri ve dolardaki gerilemeyle birlikte mayıstan bu yana ilk kez 77 bin doların üzer",
+      "link": "https://www.dunya.com/finans/haberler/bitcoinde-beklenmedik-sicrama-dususe-oynayanlar-agir-darbe-aldi-haberi-837151",
+      "published": "Fri, 21 Aug 2026 12:26:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.75
+    },
+    {
+      "title": "Bahçeli'den İsrail'e sert mesaj: Türkiye'yi kışkırtmaktan vazgeçilmeli",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2025/10/07/bahceli-dqce_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />MHP Genel Başkanı Devlet Bahçeli, İsrail&amp;#039;in Türkiye&amp;#039;yi kışkırtmaktan ve sabrını sınamakta",
+      "link": "https://www.dunya.com/gundem/bahceliden-israile-sert-mesaj-turkiyeyi-kiskirtmaktan-vazgecilmeli-haberi-837149",
+      "published": "Fri, 21 Aug 2026 12:09:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.93
+    },
+    {
       "title": "Güneş enerjisinde tüm zamanların rekoru",
       "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t120247-kl7u_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Türkiye&amp;#039;de güneş enerjisinden elektrik üretimi temmuzda aylık bazda yüzde 10,",
       "link": "https://www.dunya.com/enerji/gunes-enerjisinde-tum-zamanlarin-rekoru-haberi-837148",
@@ -220,6 +240,16 @@
       "tickers": [],
       "sentiment": "pozitif",
       "sentimentScore": 0.59
+    },
+    {
+      "title": "Almanya'da ekonomi toparlandı ama... Şirketler çalışan bulamıyor",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t122000-kqyp_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Almanya&amp;#039;da ekonomi toparlanırken kalifiye eleman sorunu yeniden büyümeye başl",
+      "link": "https://www.dunya.com/ekonomi/almanyada-ekonomi-toparlandi-ama-sirketler-calisan-bulamiyor-haberi-837150",
+      "published": "Fri, 21 Aug 2026 11:51:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.98
     },
     {
       "title": "Bakanlıktan iki ürün için toplatma kararı: Bu LED lamba ve televizyonu kullanmayın",
@@ -422,34 +452,64 @@
       "sentimentScore": 0.8
     },
     {
-      "title": "Gümrüklerde kaçakçılığa geçit yok: İlk 7 ayda 71,9 milyar liralık yakalama",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t095531-dpgc_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Ticaret Bakanlığı, Gümrükler Muhafaza ekiplerinin 2026&amp;#039;nın ilk 7 ayında 3 bin",
-      "link": "https://www.dunya.com/ekonomi/gumruklerde-kacakciliga-gecit-yok-ilk-7-ayda-719-milyar-liralik-yakalama-haberi-837125",
-      "published": "Fri, 21 Aug 2026 09:55:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.8
-    },
-    {
-      "title": "Mide bulandıran liste: Pideden kalp, sucuktan baş çıktı!",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-1-yq0t_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Tarım ve Orman Bakanlığı, taklit ve tağşiş yapılan gıdalar listesini 20 Ağustos 2026’da güncelledi. Li",
-      "link": "https://www.dunya.com/saglik/mide-bulandiran-liste-pideden-kalp-sucuktan-bas-cikti-haberi-837129",
-      "published": "Fri, 21 Aug 2026 09:55:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.98
-    },
-    {
-      "title": "Aisha Wahab, ABD Kongresine seçilen ilk Afgan kökenli siyasetçi oldu",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/aisha-wahab-68sk_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />ABD&amp;#039;nin California eyaletinde düzenlenen özel seçimi kazanan Aisha Wahab, ABD Kongresine seçil",
-      "link": "https://www.dunya.com/dunya/aisha-wahab-abd-kongresine-secilen-ilk-afgan-kokenli-siyasetci-oldu-haberi-837123",
-      "published": "Fri, 21 Aug 2026 09:50:00 +0300",
-      "source": "Dünya Gazetesi",
+      "title": "Borsa İstanbul'da gong Kapeks Kimya Sanayi AŞ için çaldı",
+      "summary": "Halka arz sürecini tamamlayan Kapeks Kimya Sanayi AŞ (KAPEKS Kimya), Borsa İstanbul'da düzenlenen gong töreniyle \"KPEKS\" koduyla işlem görmeye başladı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-kapeks-kimya-sanayi-as-icin-caldi/4033680",
+      "published": "Fri, 21 Aug 2026 12:29:37 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
       "tickers": [],
       "sentiment": "pozitif",
-      "sentimentScore": 0.96
+      "sentimentScore": 0.7
+    },
+    {
+      "title": "Zorunlu deprem sigortası satıştan sonra yeni mülk sahibine devredilemeyecek",
+      "summary": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu (SEDDK), zorunlu deprem sigortası genel şartlarında değişiklik yapılmasına karar verdi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/zorunlu-deprem-sigortasi-satistan-sonra-yeni-mulk-sahibine-devredilemeyecek/4033656",
+      "published": "Fri, 21 Aug 2026 12:14:54 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.9
+    },
+    {
+      "title": "Bitkisel üretimde bu yıl beklenen 140 milyon tonluk rekorun lokomotifi tahıl ve meyveler olacak",
+      "summary": "Bitkisel ürünlerde bu yıl beklenen 140 milyon tonluk rekor üretimde özellikle meyve ve tahıl üretimindeki güçlü artış ön plana çıkacak.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/bitkisel-uretimde-bu-yil-beklenen-140-milyon-tonluk-rekorun-lokomotifi-tahil-ve-meyveler-olacak/4033550",
+      "published": "Fri, 21 Aug 2026 11:07:08 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.73
+    },
+    {
+      "title": "Bitcoin, mayıs ayından bu yana ilk kez 77 bin doların üzerine yükseldi",
+      "summary": "Bitcoinin fiyatı, ABD’deki makroekonomik gelişmeler, tahvil piyasasındaki gevşeme ve siyasi destek sinyallerinin ardından mayıs ayından bu yana ilk kez 77 bin doların üzerine çıktı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/bitcoin-mayis-ayindan-bu-yana-ilk-kez-77-bin-dolarin-uzerine-yukseldi/4033654",
+      "published": "Fri, 21 Aug 2026 12:13:06 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.87
+    },
+    {
+      "title": "Gölcük Tersanesi'nin hikayesi \"Mavi Vatan Deneyim Alanı\"nda anlatılıyor",
+      "summary": "Türkiye'nin denizlerdeki yüz yıllık üretim ve teknoloji yolculuğunu ziyaretçilerle buluşturan \"Mavi Vatan'ın Üreten Gücü Deneyim Alanı\", TEKNOFEST Mavi Vatan'da açıldı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/golcuk-tersanesinin-hikayesi-mavi-vatan-deneyim-alaninda-anlatiliyor/4033616",
+      "published": "Fri, 21 Aug 2026 11:39:11 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.98
+    },
+    {
+      "title": "Dünyanın en büyük 250 uluslararası müteahhitlik firması listesine 48 Türk şirketi girdi",
+      "summary": "Ticaret Bakanlığı, inşaat sektörü dergisi Engineering News-Record'un (ENR) 2026 yılına ilişkin \"Dünyanın En Büyük 250 Uluslararası Müteahhitlik Firması Listesi\"ne 48 Türk müteahhitlik firmasının girdiğini bildirdi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/dunyanin-en-buyuk-250-uluslararasi-muteahhitlik-firmasi-listesine-48-turk-sirketi-girdi/4033650",
+      "published": "Fri, 21 Aug 2026 12:08:09 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.8
     },
     {
       "title": "Rusya-Ukrayna gerilimi Zaporijya Nükleer Güç Santrali'nin güvenliğini zorluyor",
@@ -480,6 +540,16 @@
       "tickers": [],
       "sentiment": "pozitif",
       "sentimentScore": 0.83
+    },
+    {
+      "title": "OGM'den orman köylüsüne 3,3 milyar lira destek",
+      "summary": "Orman Genel Müdürü Bekir Karacabey, \"2026 yılı çalışma programı kapsamında 3,3 milyar liralık bütçeyle 11 bin 325 orman köylüsü hanesi ve Tarımsal Kalkınma Kooperatifinin desteklenmesi planlanıyor.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ogmden-orman-koylusune-3-3-milyar-lira-destek-/4033572",
+      "published": "Fri, 21 Aug 2026 11:13:44 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.85
     },
     {
       "title": "Milli zırhlı amfibi aracın başarısı insansızına kapı açtı",
@@ -684,76 +754,6 @@
       ],
       "sentiment": "pozitif",
       "sentimentScore": 0.62
-    },
-    {
-      "title": "Merkez Bankası rezervleri 183,5 milyar dolara yükseldi",
-      "summary": "Türkiye Cumhuriyet Merkez Bankasının (TCMB) toplam rezervleri, 14 Ağustos haftasında bir önceki haftaya göre 5 milyar 134 milyon dolar artarak 183,5 milyar dolara çıktı.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-183-5-milyar-dolara-yukseldi/4032884",
-      "published": "Thu, 20 Aug 2026 15:16:33 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.89
-    },
-    {
-      "title": "Ticaret Bakanı Bolat: İhracatta son 38 ayın 28'inde aylık rekorlar kırdık",
-      "summary": "Ticaret Bakanı Ömer Bolat, ihracatın her ay genel anlamda artış gösterdiğini vurgulayarak, \"Son 38 ayın 28'inde aylık rekorlar kırdık. 38 ayın 21'inde de aylık artışlarımız oldu.\" dedi.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-ihracatta-son-38-ayin-28inde-aylik-rekorlar-kirdik/4032593",
-      "published": "Thu, 20 Aug 2026 12:39:16 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.73
-    },
-    {
-      "title": "Bakan Şimşek: Düşük borçluluk ülke ekonomisinin direncini artıran önemli bir unsur",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, düşük borçluluğun, ülke ekonomisinin direncini artıran önemli bir unsur olduğunu belirtti.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-dusuk-borcluluk-ulke-ekonomisinin-direncini-artiran-onemli-bir-unsur/4032829",
-      "published": "Thu, 20 Aug 2026 14:49:15 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.58
-    },
-    {
-      "title": "Bankacılık sektörünün mevduatı geçen hafta arttı",
-      "summary": "Bankacılık sektörünün toplam mevduatı, 14 Ağustos ile biten haftada bir önceki haftaya göre 448 milyar 41 milyon 211 bin lira artışla 33 trilyon 243 milyar 290 milyon 650 bin liraya yükseldi.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/bankacilik-sektorunun-mevduati-gecen-hafta-artti/4032824",
-      "published": "Thu, 20 Aug 2026 14:47:25 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.55
-    },
-    {
-      "title": "ABD Hazinesinin tahvillerdeki geri alım hamlesinin etkisinin kalıcı olması beklenmiyor",
-      "summary": "ABD Hazinesinin uzun vadeli tahvil geri alım operasyonunun büyüklüğünü artırmasının pozitif etkisinin tahvil piyasasında satış baskısının azalmasına karşı yüksek kamu harcaması ve enflasyonist baskının devam etmesi nedeniyle geçici olması bekleniyor.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/abd-hazinesinin-tahvillerdeki-geri-alim-hamlesinin-etkisinin-kalici-olmasi-beklenmiyor/4032798",
-      "published": "Thu, 20 Aug 2026 14:33:21 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.99
-    },
-    {
-      "title": "KKM bakiyesinde sona yaklaşıldı",
-      "summary": "Kur korumalı Türk lirası mevduat ve katılma hesapları (KKM), geçen hafta 47 milyon lira azalarak 51 milyon liradan 4 milyon liraya geriledi.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/kkm-bakiyesinde-sona-yaklasildi/4032810",
-      "published": "Thu, 20 Aug 2026 14:40:09 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.98
-    },
-    {
-      "title": "Avro Bölgesi'nde inşaat üretimi haziranda azaldı",
-      "summary": "Avro Bölgesi'nde inşaat üretimi, haziran ayında bir önceki aya göre yüzde 1,3 geriledi.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/avro-bolgesinde-insaat-uretimi-haziranda-azaldi/4032602",
-      "published": "Thu, 20 Aug 2026 12:49:56 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.97
     }
   ]
 }

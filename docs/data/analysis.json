@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-21T09:04:02.164596+00:00",
+  "updatedAt": "2026-08-21T09:52:32.991515+00:00",
   "analysis": [
     {
       "symbol": "THYAO",
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 301.58,
+      "sma3": 301.75,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -17,13 +17,13 @@
     {
       "symbol": "GARAN",
       "label": "Nötr",
-      "score": 1,
+      "score": -1,
       "rsi": null,
-      "sma3": 130.7,
+      "sma3": 130.63,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın üzerinde"
+        "Fiyat kısa vadeli ortalamanın altında"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
@@ -32,7 +32,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 69.62,
+      "sma3": 69.9,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -43,13 +43,13 @@
     {
       "symbol": "ISCTR",
       "label": "Nötr",
-      "score": 1,
+      "score": -1,
       "rsi": null,
-      "sma3": 12.48,
+      "sma3": 12.45,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın üzerinde"
+        "Fiyat kısa vadeli ortalamanın altında"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
@@ -58,7 +58,7 @@
       "label": "İzlenebilir (pozitif sinyal)",
       "score": 2,
       "rsi": null,
-      "sma3": 396.17,
+      "sma3": 403.33,
       "newsCount": 1,
       "avgSentiment": 0.62,
       "reasons": [
@@ -69,29 +69,27 @@
     },
     {
       "symbol": "KCHOL",
-      "label": "İzlenebilir (pozitif sinyal)",
-      "score": 2,
+      "label": "Nötr",
+      "score": 1,
       "rsi": null,
-      "sma3": 213.9,
+      "sma3": 217.1,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın üzerinde",
-        "Günlük değişim güçlü pozitif"
+        "Fiyat kısa vadeli ortalamanın üzerinde"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
     {
       "symbol": "SASA",
-      "label": "İzlenebilir (pozitif sinyal)",
-      "score": 2,
+      "label": "Nötr",
+      "score": 1,
       "rsi": null,
       "sma3": 2.28,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın üzerinde",
-        "Günlük değişim güçlü pozitif"
+        "Fiyat kısa vadeli ortalamanın üzerinde"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
@@ -100,7 +98,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 37.97,
+      "sma3": 38.03,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -113,7 +111,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 412.42,
+      "sma3": 414.5,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -126,7 +124,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 389.58,
+      "sma3": 396.67,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -136,15 +134,14 @@
     },
     {
       "symbol": "SISE",
-      "label": "İzlenebilir (pozitif sinyal)",
-      "score": 2,
+      "label": "Nötr",
+      "score": 1,
       "rsi": null,
-      "sma3": 39.06,
+      "sma3": 39.67,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın üzerinde",
-        "Günlük değişim güçlü pozitif"
+        "Fiyat kısa vadeli ortalamanın üzerinde"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
@@ -153,7 +150,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 149.9,
+      "sma3": 149.87,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -166,7 +163,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 79.6,
+      "sma3": 79.82,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -179,7 +176,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 103.93,
+      "sma3": 103.67,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -190,13 +187,13 @@
     {
       "symbol": "YKBNK",
       "label": "Nötr",
-      "score": 1,
+      "score": -1,
       "rsi": null,
-      "sma3": 35.29,
+      "sma3": 35.2,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın üzerinde"
+        "Fiyat kısa vadeli ortalamanın altında"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
@@ -205,7 +202,7 @@
       "label": "Nötr",
       "score": -1,
       "rsi": null,
-      "sma3": 30.67,
+      "sma3": 30.52,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -218,7 +215,7 @@
       "label": "İzlenebilir (pozitif sinyal)",
       "score": 2,
       "rsi": null,
-      "sma3": 34.2,
+      "sma3": 34.23,
       "newsCount": 1,
       "avgSentiment": 0.99,
       "reasons": [
@@ -229,15 +226,14 @@
     },
     {
       "symbol": "PETKM",
-      "label": "İzlenebilir (pozitif sinyal)",
-      "score": 2,
+      "label": "Nötr",
+      "score": 1,
       "rsi": null,
-      "sma3": 20.23,
+      "sma3": 20.49,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın üzerinde",
-        "Günlük değişim güçlü pozitif"
+        "Fiyat kısa vadeli ortalamanın üzerinde"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
@@ -246,7 +242,7 @@
       "label": "İzlenebilir (pozitif sinyal)",
       "score": 2,
       "rsi": null,
-      "sma3": 271.67,
+      "sma3": 273.92,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
