@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T13:32:12.843644+00:00",
+  "updatedAt": "2026-08-21T14:19:06.798134+00:00",
   "items": [
     {
       "title": "Borsa İstanbul’da gong Quick Sigorta için çaldı",
@@ -200,6 +200,36 @@
       "tickers": [],
       "sentiment": "pozitif",
       "sentimentScore": 0.82
+    },
+    {
+      "title": "ABD'nin İran hamlesine Çin'den tepki",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t164841-4ppy_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Çin Dışişleri Bakanlığı Sözcüsü Lin Jian, Pekin yönetiminin tek taraflı yaptırımlara k",
+      "link": "https://www.dunya.com/dunya/abdnin-iran-hamlesine-cinden-tepki-haberi-837173",
+      "published": "Fri, 21 Aug 2026 16:47:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.71
+    },
+    {
+      "title": "Rekabet Kurulu'ndan ilaç devine soruşturma",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t165940-kczi_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Rekabet Kurulu, küresel ilaç şirketi TEVA&amp;#039;nın patent süreçlerini kullanarak e",
+      "link": "https://www.dunya.com/ekonomi/rekabet-kurulundan-ilac-devine-sorusturma-haberi-837174",
+      "published": "Fri, 21 Aug 2026 16:45:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.55
+    },
+    {
+      "title": "ABD'nin borç yükü doları aşağı çekiyor: Para altın ve Bitcoin'e kayıyor",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t163850-icji_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />ABD&amp;#039;nin 40 trilyon doları aşan borcu ve büyüyen bütçe açığına yönelik endişel",
+      "link": "https://www.dunya.com/ekonomi/abdnin-borc-yuku-dolari-asagi-cekiyor-para-altin-ve-bitcoine-kayiyor-haberi-837172",
+      "published": "Fri, 21 Aug 2026 16:21:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.72
     },
     {
       "title": "JPMorgan’dan TL ve faiz analizi: TCMB’nin eli güçleniyor",
@@ -422,34 +452,26 @@
       "sentimentScore": 0.97
     },
     {
-      "title": "135 bin boncukla 3,5 ayda hazırladı: Osimhen'e özel hediye",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/erzurum-osimhen7-gf7x_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Muş&amp;#039;ta görev yapan el sanatları usta öğreticisi ve fanatik Galatasaray taraftarı Sümeyye ",
-      "link": "https://www.dunya.com/foto-galeri/spor/135-bin-boncukla-35-ayda-hazirladi-osimhene-ozel-hediye-galeri-837147",
-      "published": "Fri, 21 Aug 2026 11:57:00 +0300",
-      "source": "Dünya Gazetesi",
+      "title": "60 saniyede ekonomide bugün (21 Ağustos 2026)",
+      "summary": "60 Saniyede Ekonomide Bugün... Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
+      "link": "https://www.aa.com.tr/tr/ekonomi/-60-saniyede-ekonomide-bugun-21-agustos-2026/4033925",
+      "published": "Fri, 21 Aug 2026 15:48:22 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [
+        "HALKB"
+      ],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.99
+    },
+    {
+      "title": "Rekabet Kurulu, ilaç sektöründe faaliyet gösteren TEVA hakkında soruşturma açtı",
+      "summary": "Rekabet Kurulu, Teva İlaçları Sanayi ve Ticaret AŞ (TEVA) hakkında soruşturma açılmasına karar verdi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/rekabet-kurulu-ilac-sektorunde-faaliyet-gosteren-teva-hakkinda-sorusturma-acti/4033981",
+      "published": "Fri, 21 Aug 2026 16:31:02 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
       "tickers": [],
       "sentiment": "pozitif",
-      "sentimentScore": 0.59
-    },
-    {
-      "title": "Almanya'da ekonomi toparlandı ama... Şirketler çalışan bulamıyor",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t122000-kqyp_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Almanya&amp;#039;da ekonomi toparlanırken kalifiye eleman sorunu yeniden büyümeye başl",
-      "link": "https://www.dunya.com/ekonomi/almanyada-ekonomi-toparlandi-ama-sirketler-calisan-bulamiyor-haberi-837150",
-      "published": "Fri, 21 Aug 2026 11:51:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.98
-    },
-    {
-      "title": "Bakanlıktan iki ürün için toplatma kararı: Bu LED lamba ve televizyonu kullanmayın",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-ozrl_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Sanayi ve Teknoloji Bakanlığı İstanbul İl Müdürlüğü, yapılan denetimlerin ardından bir LED lamba ile 32 ",
-      "link": "https://www.dunya.com/ekonomi/bakanliktan-iki-urun-icin-toplatma-karari-bu-led-lamba-ve-televizyonu-kullanmayin-haberi-837146",
-      "published": "Fri, 21 Aug 2026 11:48:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.93
+      "sentimentScore": 0.57
     },
     {
       "title": "Çiftçilerin hesaplarına 195,6 milyon lira tarımsal destekleme ödemesi aktarılıyor",
@@ -734,26 +756,6 @@
       "tickers": [],
       "sentiment": "negatif",
       "sentimentScore": -0.51
-    },
-    {
-      "title": "Küresel piyasalarda tahvil piyasalarına ilişkin belirsizlik devam ediyor",
-      "summary": "Küresel piyasalar, ABD Hazine Bakanlığının uzun vadeli tahvil geri alım operasyonlarının büyüklüğünü artırma kararının, tahvil piyasalarında geçici bir rahatlama sağlayabileceği beklentisiyle karışık seyrediyor.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-tahvil-piyasalarina-iliskin-belirsizlik-devam-ediyor/4033412",
-      "published": "Fri, 21 Aug 2026 09:04:47 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.93
-    },
-    {
-      "title": "Sinop'ta av sezonuna hazırlanan balıkçılar bereketli bir sezon geçirmeyi umut ediyor",
-      "summary": "Üç tarafı denizle çevrili Sinop'ta balıkçılar, 1 Eylül'de başlayacak av sezonu için hazırlıklarını sürdürüyor.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/sinopta-av-sezonuna-hazirlanan-balikcilar-bereketli-bir-sezon-gecirmeyi-umut-ediyor/4033356",
-      "published": "Fri, 21 Aug 2026 00:22:44 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.79
     }
   ]
 }
