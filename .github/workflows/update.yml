@@ -1,0 +1,48 @@
+name: BIST verilerini güncelle
+
+on:
+  schedule:
+    # BIST işlem saatleri civarında her 15 dakikada bir çalışır (UTC 06:00-14:00 -> TR 09:00-17:00)
+    - cron: "*/15 6-14 * * 1-5"
+  workflow_dispatch: {}
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Bağımlılıkları kur
+        run: |
+          pip install yfinance pandas feedparser
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install transformers
+
+      - name: Sentiment modelini önbelleğe al
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-savasy-bert-sentiment-v1
+
+      - name: Fiyatları çek
+        run: python scripts/fetch_prices.py
+
+      - name: Haberleri çek
+        run: python scripts/fetch_news.py
+
+      - name: Analiz üret
+        run: python scripts/analyze.py
+
+      - name: Değişiklikleri commitle
+        run: |
+          git config user.name "bist-bot"
+          git config user.email "bist-bot@users.noreply.github.com"
+          git add docs/data/*.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "veri güncellendi: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
