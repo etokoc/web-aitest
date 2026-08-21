@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:52:12.352908+00:00",
+  "updatedAt": "2026-08-21T10:24:48.770311+00:00",
   "items": [
     {
       "title": "Borsa İstanbul’da gong Quick Sigorta için çaldı",
@@ -200,6 +200,46 @@
       "tickers": [],
       "sentiment": "pozitif",
       "sentimentScore": 0.82
+    },
+    {
+      "title": "Karadeniz kıyısında alarm: Mühimmat şüphesiyle SAS komandoları sevk edildi",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t131832-3rnu_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />İstanbul Arnavutköy’de Karadeniz kıyısındaki Karaburun sahilinde vatandaşlar tarafında",
+      "link": "https://www.dunya.com/video-galeri/gundem/karadeniz-kiyisinda-alarm-muhimmat-suphesiyle-sas-komandolari-sevk-edildi-video-837155",
+      "published": "Fri, 21 Aug 2026 13:16:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.68
+    },
+    {
+      "title": "Mabel Matiz'e yurt dışına çıkış yasağı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2025/09/22/mabel-matiz-l9dt_cover.png\" style=\"border: navy 1px solid;\" width=\"160\" />Şarkıcı Mabel Matiz, &amp;quot;Ha Leylim&amp;quot; şarkısının sözleri ve müzik klibinin &amp;quot;müste",
+      "link": "https://www.dunya.com/gundem/mabel-matize-yurt-disina-cikis-yasagi-haberi-837153",
+      "published": "Fri, 21 Aug 2026 13:07:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.63
+    },
+    {
+      "title": "Ayakkabı devi 17 mağazasını kapatıyor, yüzde 50 indirimli tasfiye satışı başladı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/chatgpt-image-21-agu-2026-13-07-23-uf8v_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />İngiltere’nin köklü ayakkabı perakende zincirlerinden Wynsors World of Shoes, ül",
+      "link": "https://www.dunya.com/ekonomi/ayakkabi-devi-17-magazasini-kapatiyor-yuzde-50-indirimli-tasfiye-satisi-basladi-haberi-837152",
+      "published": "Fri, 21 Aug 2026 13:02:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.76
+    },
+    {
+      "title": "İran'dan dolara karşı yeni hamle: Ulusal para çağrısı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t131055-wz8z_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />ABD&amp;#039;nin yeni yaptırımlarıyla karşı karşıya kalan İran&amp;#039;dan dolara bağ",
+      "link": "https://www.dunya.com/dunya/irandan-dolara-karsi-yeni-hamle-ulusal-para-cagrisi-haberi-837154",
+      "published": "Fri, 21 Aug 2026 12:44:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.72
     },
     {
       "title": "Bitcoin'de beklenmedik sıçrama: Düşüşe oynayanlar ağır darbe aldı",
@@ -412,44 +452,26 @@
       "sentimentScore": -0.99
     },
     {
-      "title": "Yapı ruhsatlarında düşüş: Daire sayısı yüzde 9,5 azaldı",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2025/12/10/insaat-maliyet-endeksi-jmel_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Türkiye&amp;#039;de 2026&amp;#039;nın ikinci çeyreğinde yapı ruhsatı verilen bina sayısı yıl",
-      "link": "https://www.dunya.com/ekonomik-veriler/yapi-ruhsatlarinda-dusus-daire-sayisi-yuzde-95-azaldi-haberi-837131",
-      "published": "Fri, 21 Aug 2026 10:11:00 +0300",
-      "source": "Dünya Gazetesi",
+      "title": "Almanya'da doğal gaz depolarının \"doluluk oranı\" tartışma konusu oldu",
+      "summary": "Almanya'da doğal gaz depolarının çok yavaş dolması kış sezonu öncesinde yasal olarak zorunlu kılınan hedeflere ulaşılmasını zorlaştırırken, bu durum muhalefet ve sektör temsilcileri tarafından sert şekilde eleştiriliyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/almanyada-dogal-gaz-depolarinin-doluluk-orani-tartisma-konusu-oldu/4033723",
+      "published": "Fri, 21 Aug 2026 13:07:01 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
       "tickers": [],
       "sentiment": "negatif",
-      "sentimentScore": -0.86
+      "sentimentScore": -1.0
     },
     {
-      "title": "İşgücü piyasasında yeni tablo: Ücretler yüzde 35,8 arttı",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/gorsel-2026-08-21-100436751-qqc9_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />TÜİK verilerine göre 2026&amp;#039;nın ikinci çeyreğinde istihdam endeksi yıllık yüzde ",
-      "link": "https://www.dunya.com/ekonomik-veriler/isgucu-piyasasinda-yeni-tablo-ucretler-yuzde-358-artti-haberi-837127",
-      "published": "Fri, 21 Aug 2026 10:03:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.92
-    },
-    {
-      "title": "Reel kesimden ağustosta olumlu sinyal: Güven yeniden yükseldi",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t102002-pij8_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Türkiye Cumhuriyet Merkez Bankası (TCMB) verilerine göre, reel kesim güveni ağustosta ",
-      "link": "https://www.dunya.com/ekonomi/reel-kesimden-agustosta-olumlu-sinyal-guven-yeniden-yukseldi-haberi-837128",
-      "published": "Fri, 21 Aug 2026 10:00:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.62
-    },
-    {
-      "title": "Tüketici güven endeksi ağustosta yükseldi",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/05/enflasyon-7l6x_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />TÜİK ve Türkiye Cumhuriyet Merkez Bankası işbirliğiyle yürütülen tüketici eğilim anketinin sonuçlarına gö",
-      "link": "https://www.dunya.com/ekonomik-veriler/tuketici-guven-endeksi-agustosta-yukseldi-haberi-837126",
-      "published": "Fri, 21 Aug 2026 09:59:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
+      "title": "THY, Asya-Pasifik'te uçuş frekanslarını yüzde 15-20 artırmayı hedefliyor",
+      "summary": "Türk Hava Yolları (THY), geniş gövdeli uçak filosunun gelişimine paralel olarak Doğu Asya, Güneydoğu Asya ve Okyanusya'daki uçuş frekanslarını gelecek yıllarda yüzde 15-20 artırmayı hedefliyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/thy-asya-pasifikte-ucus-frekanslarini-yuzde-15-20-artirmayi-hedefliyor/4033717",
+      "published": "Fri, 21 Aug 2026 12:58:45 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [
+        "THYAO"
+      ],
       "sentiment": "pozitif",
-      "sentimentScore": 0.8
+      "sentimentScore": 0.57
     },
     {
       "title": "Borsa İstanbul'da gong Kapeks Kimya Sanayi AŞ için çaldı",
@@ -732,28 +754,6 @@
       "tickers": [],
       "sentiment": "negatif",
       "sentimentScore": -0.76
-    },
-    {
-      "title": "ABD'de işsizlik maaşı başvuruları azaldı",
-      "summary": "ABD'de ilk kez işsizlik maaşına başvuranların sayısı, 15 Ağustos ile biten haftada 206 bine inerek piyasa beklentilerinin altında gerçekleşti.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/abdde-issizlik-maasi-basvurulari-azaldi/4032941",
-      "published": "Thu, 20 Aug 2026 15:49:56 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.98
-    },
-    {
-      "title": "ASELSAN Genel Müdürü Akyol: Güçlü bir donanmaya her zamankinden daha fazla ihtiyaç var",
-      "summary": "ASELSAN Genel Müdürü Ahmet Akyol, Türkiye'nin bulunduğu coğrafyada denizlerin ve donanmanın ülke açısından stratejik önem taşıdığına dikkati çekerek, \"Güçlü bir donanmaya her zamankinden daha fazla ihtiyaç var.\" dedi.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/aselsan-genel-muduru-akyol-guclu-bir-donanmaya-her-zamankinden-daha-fazla-ihtiyac-var/4032833",
-      "published": "Thu, 20 Aug 2026 14:51:51 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [
-        "ASELS"
-      ],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.62
     }
   ]
 }
