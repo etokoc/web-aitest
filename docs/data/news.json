@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T12:36:24.775356+00:00",
+  "updatedAt": "2026-08-21T13:32:12.843644+00:00",
   "items": [
     {
       "title": "Borsa İstanbul’da gong Quick Sigorta için çaldı",
@@ -200,6 +200,36 @@
       "tickers": [],
       "sentiment": "pozitif",
       "sentimentScore": 0.82
+    },
+    {
+      "title": "JPMorgan’dan TL ve faiz analizi: TCMB’nin eli güçleniyor",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t162202-kgjh_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />JPMorgan, Türkiye’de enflasyon ve cari dengedeki görünümün TCMB’ye para politikasında ",
+      "link": "https://www.dunya.com/ekonomi/jpmorgandan-tl-ve-faiz-analizi-tcmbnin-eli-gucleniyor-haberi-837171",
+      "published": "Fri, 21 Aug 2026 16:19:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.54
+    },
+    {
+      "title": "Vergide yeni sistem sonuç verdi: 28,7 milyar liralık düzeltme geldi",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-70-j73l_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Vergi Denetim Kurulu&amp;#039;nun sahte belgeyle mücadele kapsamında mercek altına aldığı 34 bin 315 ",
+      "link": "https://www.dunya.com/ekonomi/vergide-yeni-sistem-sonuc-verdi-287-milyar-liralik-duzeltme-geldi-haberi-837170",
+      "published": "Fri, 21 Aug 2026 16:06:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.76
+    },
+    {
+      "title": "Dünyanın en yaşlı insanı 117 yaşında: Uzun yaşamın sırrını tek cümlede anlattı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t155831-1n1m_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Titanik faciasından üç yıl önce doğan, iki dünya savaşına tanıklık eden ve 110 yaşında",
+      "link": "https://www.dunya.com/yasam/dunyanin-en-yasli-insani-117-yasinda-uzun-yasamin-sirrini-tek-cumlede-anlatti-haberi-837169",
+      "published": "Fri, 21 Aug 2026 15:58:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.96
     },
     {
       "title": "Kar ve yağmur bereket getirdi: Bal rekoltesi yüzde 20 arttı",
@@ -422,34 +452,24 @@
       "sentimentScore": -0.93
     },
     {
-      "title": "ÖSYM hafta sonu üç sınav düzenleyecek",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2025/11/12/osym-ugrb_cover.png\" style=\"border: navy 1px solid;\" width=\"160\" />Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığınca, Elektronik Yabancı Dil Sınavı (e-YDS 2026/9 İngilizc",
-      "link": "https://www.dunya.com/egitim/osym-hafta-sonu-uc-sinav-duzenleyecek-haberi-837145",
-      "published": "Fri, 21 Aug 2026 11:46:00 +0300",
-      "source": "Dünya Gazetesi",
+      "title": "Çiftçilerin hesaplarına 195,6 milyon lira tarımsal destekleme ödemesi aktarılıyor",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, tarımsal destek ödemesi olarak 195,6 milyon liranın çiftçilerin hesaplarına aktarılacağını bildirdi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ciftcilerin-hesaplarina-195-6-milyon-lira-tarimsal-destekleme-odemesi-aktariliyor/4033971",
+      "published": "Fri, 21 Aug 2026 16:23:21 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
       "tickers": [],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.69
+      "sentiment": "negatif",
+      "sentimentScore": -0.92
     },
     {
-      "title": "Dolar dünyada eriyor: TL'de aynı düşüş neden yaşanmıyor?",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-44-fbw7_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Dolar dünya genelinde üç ayın en düşük seviyelerine gerilerken Türkiye&amp;#039;de kur 48 lirayı aştı",
-      "link": "https://www.dunya.com/foto-galeri/ekonomi/dolar-dunyada-eriyor-tlde-ayni-dusus-neden-yasanmiyor-galeri-837144",
-      "published": "Fri, 21 Aug 2026 11:40:00 +0300",
-      "source": "Dünya Gazetesi",
+      "title": "Samsung'dan hissedarlarına tarihi kar payı dağıtımı",
+      "summary": "Güney Kore merkezli elektronik şirketi Samsung Electronics bu yıl hissedarlarına şirket tarihinde görülmemiş büyüklükte bir kar payı dağıtımı gerçekleştireceğini duyurdu.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/samsungdan-hissedarlarina-tarihi-kar-payi-dagitimi/4033953",
+      "published": "Fri, 21 Aug 2026 16:12:35 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
       "tickers": [],
       "sentiment": "pozitif",
-      "sentimentScore": 0.6
-    },
-    {
-      "title": "Euro Bölgesi'nde bileşik PMI 9 ayın en yükseğine çıktı",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2025/06/06/euro-bolgesi-ekonomisi-ilk-ceyrekte-cffr_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Euro Bölgesi&amp;#039;nde bileşik PMI ağustosta 52,1&amp;#039;e yükselerek son ",
-      "link": "https://www.dunya.com/dunya/euro-bolgesinde-bilesik-pmi-9-ayin-en-yuksegine-cikti-haberi-837143",
-      "published": "Fri, 21 Aug 2026 11:34:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.94
+      "sentimentScore": 0.57
     },
     {
       "title": "TEKNOFEST Mavi Vatan'ın ikinci gününde vatandaşlardan \"milli gurur\" vurgusu",
@@ -734,26 +754,6 @@
       "tickers": [],
       "sentiment": "pozitif",
       "sentimentScore": 0.79
-    },
-    {
-      "title": "Ticaret Bakanı Bolat: Enflasyonla mücadelede yüzde 75-80'lerden yüzde 30'a kadar gerilettik",
-      "summary": "Ticaret Bakanı Ömer Bolat, \"Enflasyonla mücadelede yüzde 75-80'lerden yüzde 30'a kadar gerilettik.\" diye konuştu.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-enflasyonla-mucadelede-yuzde-75-80lerden-yuzde-30a-kadar-gerilettik/4033175",
-      "published": "Thu, 20 Aug 2026 19:46:15 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.79
-    },
-    {
-      "title": "ABD'den Katar'a 4,5 milyar dolarlık yakıt ikmal uçağı satışına onay",
-      "summary": "ABD Dışişleri Bakanlığı, Katar'a 4,5 milyar dolarlık KC-46A havada yakıt ikmal uçağı ve ilgili ekipman satışını onayladı.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/abdden-katara-4-5-milyar-dolarlik-yakit-ikmal-ucagi-satisina-onay/4033157",
-      "published": "Thu, 20 Aug 2026 19:20:23 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.89
     }
   ]
 }
