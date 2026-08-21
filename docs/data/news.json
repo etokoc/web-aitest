@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T10:24:48.770311+00:00",
+  "updatedAt": "2026-08-21T10:57:22.670882+00:00",
   "items": [
     {
       "title": "Borsa İstanbul’da gong Quick Sigorta için çaldı",
@@ -210,6 +210,16 @@
       "tickers": [],
       "sentiment": "negatif",
       "sentimentScore": -0.68
+    },
+    {
+      "title": "Altın tozu dumana kattı: Dev bankalardan peş peşe yeni tahminler",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t134257-1irw_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Sert geri çekilmelerin ardından son birkaç haftada tozu dumana katarak yükselen altın ",
+      "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-tozu-dumana-katti-dev-bankalardan-pes-pese-yeni-tahminler-galeri-837156",
+      "published": "Fri, 21 Aug 2026 13:16:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.81
     },
     {
       "title": "Mabel Matiz'e yurt dışına çıkış yasağı",
@@ -440,16 +450,6 @@
       "tickers": [],
       "sentiment": "pozitif",
       "sentimentScore": 0.6
-    },
-    {
-      "title": "Sanayide çarklar yavaşladı: Kapasite kullanımı düştü",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2021/04/15/kapasite-8HSO_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />İmalat sanayinde kapasite kullanım oranı ağustos ayında 0,3 puan azalarak yüzde 73,5&amp;#039;e geriledi.",
-      "link": "https://www.dunya.com/ekonomi/sanayide-carklar-yavasladi-kapasite-kullanimi-dustu-haberi-837130",
-      "published": "Fri, 21 Aug 2026 10:16:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.99
     },
     {
       "title": "Almanya'da doğal gaz depolarının \"doluluk oranı\" tartışma konusu oldu",

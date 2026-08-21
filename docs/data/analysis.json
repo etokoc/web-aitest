@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-21T10:25:10.074467+00:00",
+  "updatedAt": "2026-08-21T10:57:41.713472+00:00",
   "analysis": [
     {
       "symbol": "THYAO",
       "label": "İzlenebilir (pozitif sinyal)",
       "score": 2,
       "rsi": null,
-      "sma3": 301.67,
+      "sma3": 301.42,
       "newsCount": 1,
       "avgSentiment": 0.57,
       "reasons": [
@@ -20,7 +20,7 @@
       "label": "Nötr",
       "score": -1,
       "rsi": null,
-      "sma3": 130.6,
+      "sma3": 130.57,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -33,7 +33,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 69.87,
+      "sma3": 69.85,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -46,7 +46,7 @@
       "label": "Nötr",
       "score": -1,
       "rsi": null,
-      "sma3": 12.45,
+      "sma3": 12.43,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -59,7 +59,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 402.92,
+      "sma3": 402.83,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -82,15 +82,14 @@
     },
     {
       "symbol": "SASA",
-      "label": "İzlenebilir (pozitif sinyal)",
-      "score": 2,
+      "label": "Nötr",
+      "score": 1,
       "rsi": null,
-      "sma3": 2.29,
+      "sma3": 2.28,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın üzerinde",
-        "Günlük değişim güçlü pozitif"
+        "Fiyat kısa vadeli ortalamanın üzerinde"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
@@ -99,7 +98,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 37.99,
+      "sma3": 37.97,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -112,7 +111,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 414.25,
+      "sma3": 414.17,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -125,7 +124,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 396.58,
+      "sma3": 396.67,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -151,7 +150,7 @@
       "label": "Nötr",
       "score": -1,
       "rsi": null,
-      "sma3": 149.77,
+      "sma3": 149.7,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -164,7 +163,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 79.88,
+      "sma3": 79.83,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -177,7 +176,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 103.63,
+      "sma3": 103.67,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -190,7 +189,7 @@
       "label": "Nötr",
       "score": -1,
       "rsi": null,
-      "sma3": 35.18,
+      "sma3": 35.16,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -203,7 +202,7 @@
       "label": "Nötr",
       "score": -1,
       "rsi": null,
-      "sma3": 30.52,
+      "sma3": 30.48,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -216,7 +215,7 @@
       "label": "Nötr",
       "score": 0,
       "rsi": null,
-      "sma3": 34.19,
+      "sma3": 34.17,
       "newsCount": 1,
       "avgSentiment": 0.99,
       "reasons": [
@@ -230,7 +229,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 20.49,
+      "sma3": 20.45,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -243,7 +242,7 @@
       "label": "İzlenebilir (pozitif sinyal)",
       "score": 2,
       "rsi": null,
-      "sma3": 274.0,
+      "sma3": 274.5,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
