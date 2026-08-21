@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T14:19:06.798134+00:00",
+  "updatedAt": "2026-08-21T15:03:27.870553+00:00",
   "items": [
     {
       "title": "Borsa İstanbul’da gong Quick Sigorta için çaldı",
@@ -200,6 +200,36 @@
       "tickers": [],
       "sentiment": "pozitif",
       "sentimentScore": 0.82
+    },
+    {
+      "title": "ABD'de hizmet sektörü güçlenirken imalat PMI 5 ayın dibinde",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/04/abdis-jnma_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />ABD&amp;#039;de ağustosta hizmet sektörü PMI 20 ayın en yüksek seviyesine çıkarken, imalat sanayi PMI 5 ayın ",
+      "link": "https://www.dunya.com/dunya/abdde-hizmet-sektoru-guclenirken-imalat-pmi-5-ayin-dibinde-haberi-837181",
+      "published": "Fri, 21 Aug 2026 17:37:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.72
+    },
+    {
+      "title": "New York borsası yükselişle açıldı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2024/11/07/new-york-borsasi-ei8f_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />New York borsası, tahvil faizleri ve petrol fiyatlarını etkileyen gelişmeler arasında denge aranma",
+      "link": "https://www.dunya.com/finans/borsa/new-york-borsasi-yukselisle-acildi-haberi-837180",
+      "published": "Fri, 21 Aug 2026 17:34:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.74
+    },
+    {
+      "title": "Türkiye dahil 11 ülkeden İsrail’in Suriye saldırısına kınama",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2025/08/02/disisleri-bakanligi-7kov_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Türkiye, Cezayir, Endonezya, Filistin, Katar, Lübnan, Malezya, Moritanya, Pakistan, Somali ve S",
+      "link": "https://www.dunya.com/gundem/turkiye-dahil-11-ulkeden-israilin-suriye-saldirisina-kinama-haberi-837179",
+      "published": "Fri, 21 Aug 2026 17:31:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.59
     },
     {
       "title": "ABD'nin İran hamlesine Çin'den tepki",
@@ -420,36 +450,6 @@
       "tickers": [],
       "sentiment": "negatif",
       "sentimentScore": -0.72
-    },
-    {
-      "title": "Bitcoin'de beklenmedik sıçrama: Düşüşe oynayanlar ağır darbe aldı",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/03/bitcoin-3qc9_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Bitcoin, ABD tahvil faizleri ve dolardaki gerilemeyle birlikte mayıstan bu yana ilk kez 77 bin doların üzer",
-      "link": "https://www.dunya.com/finans/haberler/bitcoinde-beklenmedik-sicrama-dususe-oynayanlar-agir-darbe-aldi-haberi-837151",
-      "published": "Fri, 21 Aug 2026 12:26:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.75
-    },
-    {
-      "title": "Bahçeli'den İsrail'e sert mesaj: Türkiye'yi kışkırtmaktan vazgeçilmeli",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2025/10/07/bahceli-dqce_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />MHP Genel Başkanı Devlet Bahçeli, İsrail&amp;#039;in Türkiye&amp;#039;yi kışkırtmaktan ve sabrını sınamakta",
-      "link": "https://www.dunya.com/gundem/bahceliden-israile-sert-mesaj-turkiyeyi-kiskirtmaktan-vazgecilmeli-haberi-837149",
-      "published": "Fri, 21 Aug 2026 12:09:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.93
-    },
-    {
-      "title": "Güneş enerjisinde tüm zamanların rekoru",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t120247-kl7u_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Türkiye&amp;#039;de güneş enerjisinden elektrik üretimi temmuzda aylık bazda yüzde 10,",
-      "link": "https://www.dunya.com/enerji/gunes-enerjisinde-tum-zamanlarin-rekoru-haberi-837148",
-      "published": "Fri, 21 Aug 2026 12:01:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.97
     },
     {
       "title": "60 saniyede ekonomide bugün (21 Ağustos 2026)",
