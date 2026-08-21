@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-21T11:25:06.427964+00:00",
+  "updatedAt": "2026-08-21T11:52:25.009447+00:00",
   "analysis": [
     {
       "symbol": "THYAO",
       "label": "İzlenebilir (pozitif sinyal)",
       "score": 2,
       "rsi": null,
-      "sma3": 301.42,
+      "sma3": 301.67,
       "newsCount": 1,
       "avgSentiment": 0.57,
       "reasons": [
@@ -18,13 +18,13 @@
     {
       "symbol": "GARAN",
       "label": "Nötr",
-      "score": -1,
+      "score": 1,
       "rsi": null,
-      "sma3": 130.53,
+      "sma3": 130.77,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın altında"
+        "Fiyat kısa vadeli ortalamanın üzerinde"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
@@ -33,7 +33,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 69.82,
+      "sma3": 69.92,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -46,7 +46,7 @@
       "label": "Nötr",
       "score": -1,
       "rsi": null,
-      "sma3": 12.43,
+      "sma3": 12.45,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -57,13 +57,13 @@
     {
       "symbol": "ASELS",
       "label": "Nötr",
-      "score": -1,
+      "score": 1,
       "rsi": null,
-      "sma3": 402.5,
+      "sma3": 403.08,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın altında"
+        "Fiyat kısa vadeli ortalamanın üzerinde"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
@@ -72,7 +72,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 217.2,
+      "sma3": 217.43,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -96,13 +96,14 @@
     {
       "symbol": "EREGL",
       "label": "Nötr",
-      "score": 1,
+      "score": 0,
       "rsi": null,
-      "sma3": 38.0,
-      "newsCount": 0,
-      "avgSentiment": null,
+      "sma3": 38.01,
+      "newsCount": 1,
+      "avgSentiment": -0.6,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın üzerinde"
+        "Fiyat kısa vadeli ortalamanın üzerinde",
+        "Haber duygu tonu negatif (ort. -0.60)"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
@@ -111,7 +112,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 414.0,
+      "sma3": 414.42,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -124,7 +125,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 396.83,
+      "sma3": 397.5,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -137,7 +138,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 39.61,
+      "sma3": 39.67,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -150,7 +151,7 @@
       "label": "Nötr",
       "score": -1,
       "rsi": null,
-      "sma3": 149.73,
+      "sma3": 149.83,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -163,7 +164,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 79.82,
+      "sma3": 79.8,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -176,7 +177,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 103.7,
+      "sma3": 103.87,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -187,40 +188,39 @@
     {
       "symbol": "YKBNK",
       "label": "Nötr",
-      "score": -1,
+      "score": 1,
       "rsi": null,
-      "sma3": 35.15,
+      "sma3": 35.23,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın altında"
+        "Fiyat kısa vadeli ortalamanın üzerinde"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
     {
       "symbol": "VAKBN",
       "label": "Nötr",
-      "score": -1,
+      "score": 1,
       "rsi": null,
-      "sma3": 30.49,
+      "sma3": 30.55,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın altında"
+        "Fiyat kısa vadeli ortalamanın üzerinde"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
     {
       "symbol": "HALKB",
       "label": "Nötr",
-      "score": 0,
+      "score": 1,
       "rsi": null,
-      "sma3": 34.17,
-      "newsCount": 1,
-      "avgSentiment": 0.99,
+      "sma3": 34.23,
+      "newsCount": 0,
+      "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın altında",
-        "Haber duygu tonu pozitif (ort. +0.99)"
+        "Fiyat kısa vadeli ortalamanın üzerinde"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
@@ -242,7 +242,7 @@
       "label": "İzlenebilir (pozitif sinyal)",
       "score": 2,
       "rsi": null,
-      "sma3": 274.33,
+      "sma3": 274.58,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [

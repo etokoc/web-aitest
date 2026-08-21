@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T11:24:46.355687+00:00",
+  "updatedAt": "2026-08-21T11:52:06.877600+00:00",
   "items": [
     {
       "title": "Borsa İstanbul’da gong Quick Sigorta için çaldı",
@@ -202,6 +202,46 @@
       "sentimentScore": 0.82
     },
     {
+      "title": "Türkiye'den Netanyahu hakkında kırmızı bülten talebi",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/20/son-dakika-mavi-lep6_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Adalet Bakanı Akın Gürlek, İsrail Başbakanı Binyamin Netanyahu ve Afek Moskovitch hakkında  &amp;qu",
+      "link": "https://www.dunya.com/dunya/turkiyeden-netanyahu-hakkinda-kirmizi-bulten-talebi-haberi-837164",
+      "published": "Fri, 21 Aug 2026 14:48:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.76
+    },
+    {
+      "title": "Türkiye'den Netanyahu hakkında kırmızı bülten talebi",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/20/son-dakika-mavi-lep6_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Adalet Bakanı Akın Gürlek, İsrail Başbakanı Binyamin Netanyahu ve Afek Moskovitch hakkında  &amp;qu",
+      "link": "https://www.dunya.com/dunya/turkiyeden-netanyahu-hakkinda-kirmizi-bulten-talebi-haberi-837165",
+      "published": "Fri, 21 Aug 2026 14:48:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.76
+    },
+    {
+      "title": "İran Cumhurbaşkanı Pezeşkiyan: ABD ile savaş sona ermeli",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2025/09/20/mesud-pezeskiyan-mpkz_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD ile savaşın sona erdirilmesi gerektiğini belirterek, &amp",
+      "link": "https://www.dunya.com/dunya/iran-cumhurbaskani-pezeskiyan-abd-ile-savas-sona-ermeli-haberi-837163",
+      "published": "Fri, 21 Aug 2026 14:43:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.7
+    },
+    {
+      "title": "Fındıkta beklenti yükseldi: 115 bin tonluk rekolte öngörülüyor",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t143408-tywn_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Samsun&amp;#039;da 125 bin hektarlık alanda üretimi yapılan fındıkta hasat sürerken, b",
+      "link": "https://www.dunya.com/sektorler/tarim/findikta-beklenti-yukseldi-115-bin-tonluk-rekolte-ongoruluyor-haberi-837161",
+      "published": "Fri, 21 Aug 2026 14:31:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.89
+    },
+    {
       "title": "Ahmet Arif Denizolgun’un öldüğü çiftlik görüntülendi",
       "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-qggd_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Eski Ulaştırma Bakanı Ahmet Arif Denizolgun’un 2016 yılında Beykoz’daki çiftliğinde hayatını kaybetmesin",
       "link": "https://www.dunya.com/foto-galeri/gundem/ahmet-arif-denizolgunun-oldugu-ciftlik-goruntulendi-galeri-837160",
@@ -210,6 +250,16 @@
       "tickers": [],
       "sentiment": "negatif",
       "sentimentScore": -0.89
+    },
+    {
+      "title": "Alman sanayisinden hükümete rest: Dev şirketlerden acil reform çağrısı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t144640-vcra_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Audi, BMW, Mercedes-Benz, Porsche, Siemens gibi Almanya&amp;#039;nın sanayi devleri hü",
+      "link": "https://www.dunya.com/ekonomi/alman-sanayisinden-hukumete-rest-dev-sirketlerden-acil-reform-cagrisi-haberi-837162",
+      "published": "Fri, 21 Aug 2026 14:19:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.77
     },
     {
       "title": "Altında yükseliş kuyumcuları hareketlendirdi: Vatandaşlar sıraya girdi",
@@ -402,54 +452,16 @@
       "sentimentScore": 0.77
     },
     {
-      "title": "Ayşe Ünlüce CHP'den istifa etti: Yeni Parti'ye katıldı",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t111918-hi6m_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, CHP üyeliğinden ayrıldığını duyurdu",
-      "link": "https://www.dunya.com/gundem/ayse-unluce-chpden-istifa-etti-yeni-partiye-katildi-haberi-837140",
-      "published": "Fri, 21 Aug 2026 11:17:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
+      "title": "Milli denizaltının çeliklerini Erdemir üretecek",
+      "summary": "Erdemir Genel Müdürü Şaban Yazıcı, yeni nesil denizaltılar için çelik ürettiklerini belirterek, \"Şu anda yeni üretilen milli denizaltımız, bu çeliklerle imal edilecek.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/milli-denizaltinin-celiklerini-erdemir-uretecek/4033610",
+      "published": "Fri, 21 Aug 2026 11:37:40 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [
+        "EREGL"
+      ],
       "sentiment": "negatif",
-      "sentimentScore": -0.83
-    },
-    {
-      "title": "Ünlü ekonomist Bitcoin’deki yükselişe 'sahte' dedi: Yeni yatırım rotasını gösterdi",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/gorsel-2026-08-21-111045297-scqi_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Bitcoin’in 72 bin doların üzerine çıkmasının ardından ünlü ekonomist Peter Schiff’ten d",
-      "link": "https://www.dunya.com/foto-galeri/ekonomi/unlu-ekonomist-bitcoindeki-yukselise-sahte-dedi-yeni-yatirim-rotasini-gosterdi-galeri-837139",
-      "published": "Fri, 21 Aug 2026 11:01:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.76
-    },
-    {
-      "title": "Göztepe taraftar grupları Yalı ve Forza'ya operasyon: 28 gözaltı",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/izmir-gozalti-7sjj_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />İzmir Cumhuriyet Başsavcılığı tarafından Göztepe&amp;#039;nin Yalı ve Forza taraftar gruplarında yer ",
-      "link": "https://www.dunya.com/gundem/goztepe-taraftar-gruplari-yali-ve-forzaya-operasyon-28-gozalti-haberi-837137",
-      "published": "Fri, 21 Aug 2026 10:43:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.53
-    },
-    {
-      "title": "Adalet Bakanı Gürlek: Turizm alanları ve tribünler suç için kullanılamaz",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/10/akin1-tsfl_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />İstanbul ve İzmir’de organize suç örgütlerine yönelik geniş çaplı operasyonlar düzenlendi. Adalet Bakanı Akın",
-      "link": "https://www.dunya.com/gundem/adalet-bakani-gurlek-turizm-alanlari-ve-tribunler-suc-icin-kullanilamaz-haberi-837136",
-      "published": "Fri, 21 Aug 2026 10:38:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.87
-    },
-    {
-      "title": "Link Bilgisayar'dan yapay zeka alanında yeni iş birliği",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/gorsel-2026-08-21-103557280-spll_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Link Bilgisayar, Sistem Global ile Türk hukukuna özel geliştirilen yapay zeka tabanlı h",
-      "link": "https://www.dunya.com/sektorler/link-bilgisayardan-yapay-zeka-alaninda-yeni-is-birligi-haberi-837135",
-      "published": "Fri, 21 Aug 2026 10:35:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.7
+      "sentimentScore": -0.6
     },
     {
       "title": "Bakan Uraoğlu: Denizcilikte dünyanın en üst seviyelerine gelmiş durumdayız",
@@ -742,18 +754,6 @@
       "tickers": [],
       "sentiment": "negatif",
       "sentimentScore": -0.93
-    },
-    {
-      "title": "60 saniyede ekonomide bugün (20 Ağustos 2026)",
-      "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
-      "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-20-agustos-2026/4032967",
-      "published": "Thu, 20 Aug 2026 16:09:52 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [
-        "HALKB"
-      ],
-      "sentiment": "pozitif",
-      "sentimentScore": 0.99
     }
   ]
 }
