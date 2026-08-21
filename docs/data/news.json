@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T11:52:06.877600+00:00",
+  "updatedAt": "2026-08-21T12:36:24.775356+00:00",
   "items": [
     {
       "title": "Borsa İstanbul’da gong Quick Sigorta için çaldı",
@@ -202,24 +202,44 @@
       "sentimentScore": 0.82
     },
     {
+      "title": "Kar ve yağmur bereket getirdi: Bal rekoltesi yüzde 20 arttı",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/elazig-bal3-wrjj_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Elazığ’da geçen kış etkili olan kar yağışı ve bahar aylarında görülen bol yağış, doğal floranın canlanm",
+      "link": "https://www.dunya.com/foto-galeri/aktuel/kar-ve-yagmur-bereket-getirdi-bal-rekoltesi-yuzde-20-artti-galeri-837168",
+      "published": "Fri, 21 Aug 2026 15:26:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.51
+    },
+    {
+      "title": "Daron Acemoğlu'ndan The Economist'e sert yanıt: İkna edicilikten uzak olan sizin eleştiriniz",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t150425-tz2a_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />The Economist, 2024 Nobel Ekonomi Ödülü sahibi iktisatçı Daron Acemoğlu&amp;#039;nun ç",
+      "link": "https://www.dunya.com/ekonomi/daron-acemoglundan-the-economiste-sert-yanit-ikna-edicilikten-uzak-olan-sizin-elestiriniz-haberi-837166",
+      "published": "Fri, 21 Aug 2026 15:04:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.85
+    },
+    {
+      "title": "Valiz hazırlarken dikkat! Uçak yolculuğunda 100 ml kuralı değişiyor",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-56gc_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Avrupa’da uçak yolculuklarının en bilinen güvenlik kurallarından biri değişmeye başladı. Yeni nesil güve",
+      "link": "https://www.dunya.com/sektorler/turizm/valiz-hazirlarken-dikkat-ucak-yolculugunda-100-ml-kurali-degisiyor-haberi-837167",
+      "published": "Fri, 21 Aug 2026 15:01:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.71
+    },
+    {
       "title": "Türkiye'den Netanyahu hakkında kırmızı bülten talebi",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/20/son-dakika-mavi-lep6_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Adalet Bakanı Akın Gürlek, İsrail Başbakanı Binyamin Netanyahu ve Afek Moskovitch hakkında  &amp;qu",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/05/21/akin-gurlek-i0jd_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Adalet Bakanı Akın Gürlek, Küresel Sumud Filosu&amp;#039;na yönelik saldırıyla ilgili yürütülen soruştu",
       "link": "https://www.dunya.com/dunya/turkiyeden-netanyahu-hakkinda-kirmizi-bulten-talebi-haberi-837164",
       "published": "Fri, 21 Aug 2026 14:48:00 +0300",
       "source": "Dünya Gazetesi",
       "tickers": [],
       "sentiment": "negatif",
-      "sentimentScore": -0.76
-    },
-    {
-      "title": "Türkiye'den Netanyahu hakkında kırmızı bülten talebi",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/20/son-dakika-mavi-lep6_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Adalet Bakanı Akın Gürlek, İsrail Başbakanı Binyamin Netanyahu ve Afek Moskovitch hakkında  &amp;qu",
-      "link": "https://www.dunya.com/dunya/turkiyeden-netanyahu-hakkinda-kirmizi-bulten-talebi-haberi-837165",
-      "published": "Fri, 21 Aug 2026 14:48:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.76
+      "sentimentScore": -0.86
     },
     {
       "title": "İran Cumhurbaşkanı Pezeşkiyan: ABD ile savaş sona ermeli",
@@ -432,24 +452,24 @@
       "sentimentScore": 0.94
     },
     {
-      "title": "Ankara’nın altında 2 bin 800 yıllık tarih: Frig tümülüsünde ilk kez kazı başladı",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-1-wz69_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Ankara’nın merkezindeki 2 bin 800 yıllık Frig mirası için yeni bir dönem başladı. Bahçelievler-Emek bö",
-      "link": "https://www.dunya.com/sektorler/turizm/ankaranin-altinda-2-bin-800-yillik-tarih-frig-tumulusunde-ilk-kez-kazi-basladi-haberi-837142",
-      "published": "Fri, 21 Aug 2026 11:29:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.55
-    },
-    {
-      "title": "Yunan adalarında konut fiyatları uçuşta",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-nh9a_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Yunanistan’ın gözde adalarında konut fiyatları yükselmeye devam ediyor. Yabancı yatırımcıların güçlü tal",
-      "link": "https://www.dunya.com/sektorler/emlak/yunan-adalarinda-konut-fiyatlari-ucusta-haberi-837141",
-      "published": "Fri, 21 Aug 2026 11:20:00 +0300",
-      "source": "Dünya Gazetesi",
+      "title": "TEKNOFEST Mavi Vatan'ın ikinci gününde vatandaşlardan \"milli gurur\" vurgusu",
+      "summary": "Türkiye'nin savunma sanayisindeki kabiliyetlerinin sergilendiği TEKNOFEST Mavi Vatan, ikinci gününde de vatandaşların yoğun ilgisiyle karşı karşıya.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/teknofest-mavi-vatanin-ikinci-gununde-vatandaslardan-milli-gurur-vurgusu/4033872",
+      "published": "Fri, 21 Aug 2026 15:15:43 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
       "tickers": [],
       "sentiment": "pozitif",
-      "sentimentScore": 0.77
+      "sentimentScore": 0.78
+    },
+    {
+      "title": "TEKNOFEST Mavi Vatan'da gençlerin insansız deniz araçları jüri karşısında",
+      "summary": "TEKNOFEST Mavi Vatan kapsamında düzenlenen deniz ve su altı teknolojilerine odaklanan İnsansız Deniz Aracı (İDA) Yarışması'nda gençler, geliştirdikleri deniz araçlarını denize indirerek jüri karşısında test ediyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/teknofest-mavi-vatanda-genclerin-insansiz-deniz-araclari-juri-karsisinda/4033803",
+      "published": "Fri, 21 Aug 2026 14:19:37 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.57
     },
     {
       "title": "Milli denizaltının çeliklerini Erdemir üretecek",
@@ -734,26 +754,6 @@
       "tickers": [],
       "sentiment": "negatif",
       "sentimentScore": -0.89
-    },
-    {
-      "title": "Borsa günü düşüşle tamamladı",
-      "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,43 değer kaybederek 14.396,54 puandan tamamladı.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4033121",
-      "published": "Thu, 20 Aug 2026 18:25:10 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.76
-    },
-    {
-      "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Sulama yatırımlarını ciddi ölçüde artırmış durumdayız",
-      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Sulama başta olmak üzere gıda üretimini, arzını artırıcı yatırımları çok daha yoğun bir şekilde gerçekleştirmemiz gerekiyor. Bu çerçevede sulama yatırımlarını ciddi ölçüde artırmış durumdayız.\" dedi.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-sulama-yatirimlarini-ciddi-olcude-artirmis-durumdayiz/4033098",
-      "published": "Thu, 20 Aug 2026 18:02:37 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.93
     }
   ]
 }
