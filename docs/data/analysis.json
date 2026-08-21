@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T10:57:41.713472+00:00",
+  "updatedAt": "2026-08-21T11:25:06.427964+00:00",
   "analysis": [
     {
       "symbol": "THYAO",
@@ -20,7 +20,7 @@
       "label": "Nötr",
       "score": -1,
       "rsi": null,
-      "sma3": 130.57,
+      "sma3": 130.53,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -33,7 +33,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 69.85,
+      "sma3": 69.82,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -57,13 +57,13 @@
     {
       "symbol": "ASELS",
       "label": "Nötr",
-      "score": 1,
+      "score": -1,
       "rsi": null,
-      "sma3": 402.83,
+      "sma3": 402.5,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
-        "Fiyat kısa vadeli ortalamanın üzerinde"
+        "Fiyat kısa vadeli ortalamanın altında"
       ],
       "disclaimer": "Bu bir yatırım tavsiyesi değildir; kural tabanlı otomatik bir ön analizdir."
     },
@@ -72,7 +72,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 217.07,
+      "sma3": 217.2,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -98,7 +98,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 37.97,
+      "sma3": 38.0,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -111,7 +111,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 414.17,
+      "sma3": 414.0,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -124,7 +124,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 396.67,
+      "sma3": 396.83,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -137,7 +137,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 39.65,
+      "sma3": 39.61,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -150,7 +150,7 @@
       "label": "Nötr",
       "score": -1,
       "rsi": null,
-      "sma3": 149.7,
+      "sma3": 149.73,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -163,7 +163,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 79.83,
+      "sma3": 79.82,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -176,7 +176,7 @@
       "label": "Nötr",
       "score": 1,
       "rsi": null,
-      "sma3": 103.67,
+      "sma3": 103.7,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -189,7 +189,7 @@
       "label": "Nötr",
       "score": -1,
       "rsi": null,
-      "sma3": 35.16,
+      "sma3": 35.15,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -202,7 +202,7 @@
       "label": "Nötr",
       "score": -1,
       "rsi": null,
-      "sma3": 30.48,
+      "sma3": 30.49,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [
@@ -242,7 +242,7 @@
       "label": "İzlenebilir (pozitif sinyal)",
       "score": 2,
       "rsi": null,
-      "sma3": 274.5,
+      "sma3": 274.33,
       "newsCount": 0,
       "avgSentiment": null,
       "reasons": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T10:57:22.670882+00:00",
+  "updatedAt": "2026-08-21T11:24:46.355687+00:00",
   "items": [
     {
       "title": "Borsa İstanbul’da gong Quick Sigorta için çaldı",
@@ -200,6 +200,46 @@
       "tickers": [],
       "sentiment": "pozitif",
       "sentimentScore": 0.82
+    },
+    {
+      "title": "Ahmet Arif Denizolgun’un öldüğü çiftlik görüntülendi",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-qggd_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Eski Ulaştırma Bakanı Ahmet Arif Denizolgun’un 2016 yılında Beykoz’daki çiftliğinde hayatını kaybetmesin",
+      "link": "https://www.dunya.com/foto-galeri/gundem/ahmet-arif-denizolgunun-oldugu-ciftlik-goruntulendi-galeri-837160",
+      "published": "Fri, 21 Aug 2026 14:20:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.89
+    },
+    {
+      "title": "Altında yükseliş kuyumcuları hareketlendirdi: Vatandaşlar sıraya girdi",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t140112-ek9w_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Altın fiyatlarında haftanın son işlem gününde yükseliş sürerken, gram altın yaklaşık d",
+      "link": "https://www.dunya.com/video-galeri/ekonomi/altinda-yukselis-kuyumculari-hareketlendirdi-vatandaslar-siraya-girdi-video-837157",
+      "published": "Fri, 21 Aug 2026 14:01:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.7
+    },
+    {
+      "title": "İstanbul'da ulaşımın yoğun hattında çalışma başlıyor: 150 gün sürecek",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/t1-metro-wek9_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />İstanbul&amp;#039;un en yoğun toplu ulaşım güzergahlarından T1 Tramvay Hattı&amp;#039;nın Aksaray İstasyon",
+      "link": "https://www.dunya.com/gundem/istanbulda-ulasimin-yogun-hattinda-calisma-basliyor-150-gun-surecek-haberi-837158",
+      "published": "Fri, 21 Aug 2026 14:01:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "negatif",
+      "sentimentScore": -0.65
+    },
+    {
+      "title": "Mezarlığa sıfır yeni daireler: Hem manzara hem fiyatlar 'pes' dedirtiyor",
+      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t141418-odds_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />İstanbul Avcılar’da kentsel dönüşüm kapsamında Ambarlı Mezarlığı’nın hemen yanında yük",
+      "link": "https://www.dunya.com/foto-galeri/ekonomi/mezarliga-sifir-yeni-daireler-hem-manzara-hem-fiyatlar-pes-dedirtiyor-galeri-837159",
+      "published": "Fri, 21 Aug 2026 13:56:00 +0300",
+      "source": "Dünya Gazetesi",
+      "tickers": [],
+      "sentiment": "pozitif",
+      "sentimentScore": 0.88
     },
     {
       "title": "Karadeniz kıyısında alarm: Mühimmat şüphesiyle SAS komandoları sevk edildi",
@@ -412,44 +452,14 @@
       "sentimentScore": 0.7
     },
     {
-      "title": "Hilmi Tuna Kuriş yakalandı",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-4-s7em_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Ankara Cumhuriyet Başsavcılığı’nın yürüttüğü Alihan Kuriş suç örgütü soruşturması kapsamında aranan ve",
-      "link": "https://www.dunya.com/gundem/hilmi-tuna-kuris-yakalandi-haberi-837134",
-      "published": "Fri, 21 Aug 2026 10:33:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.92
-    },
-    {
-      "title": "Belediye başkanına bisiklet çaptı kentte bisiklet yasaklandı",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/yeni-proje-2026-08-21t105749-4wvc_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />İtalya&amp;#039;nın Como kentinde belediye başkanına elektrikli bisiklet çarpınca kent",
-      "link": "https://www.dunya.com/dunya/belediye-baskanina-bisiklet-capti-kentte-bisiklet-yasaklandi-haberi-837138",
-      "published": "Fri, 21 Aug 2026 10:32:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.75
-    },
-    {
-      "title": "Petrol fiyatları geriledi: Brent 93 dolara çekildi",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/07/20/petrol-varili-ywsq_cover.png\" style=\"border: navy 1px solid;\" width=\"160\" />Brent petrolün varil fiyatı, Hürmüz Boğazı&amp;#039;ndan petrol akışının arttığına yönelik haberler, ",
-      "link": "https://www.dunya.com/dunya/petrol-fiyatlari-geriledi-brent-93-dolara-cekildi-haberi-837133",
-      "published": "Fri, 21 Aug 2026 10:27:00 +0300",
-      "source": "Dünya Gazetesi",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.93
-    },
-    {
-      "title": "Kurulan şirket sayısı yıllık bazda artarken kapanışlar ise temmuzda hızlandı",
-      "summary": "<img align=\"right\" border=\"0\" height=\"90\" src=\"https://image.dunya.com/rcman/Cw160h90q95gc/storage/files/images/2026/08/21/gorsel-2026-08-21-102322464-8txy_cover.jpg\" style=\"border: navy 1px solid;\" width=\"160\" />Türkiye Odalar ve Borsalar Birliği (TOBB) verilerine göre, Temmuz 2026&amp;#039;da kuru",
-      "link": "https://www.dunya.com/ekonomi/kurulan-sirket-sayisi-yillik-bazda-artarken-kapanislar-ise-temmuzda-hizlandi-haberi-837132",
-      "published": "Fri, 21 Aug 2026 10:20:00 +0300",
-      "source": "Dünya Gazetesi",
+      "title": "Bakan Uraoğlu: Denizcilikte dünyanın en üst seviyelerine gelmiş durumdayız",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye'ye denizcilik alanında çeşitli işbirliği tekliflerinin geldiğini belirterek, \"Denizcilikte gerçekten dünyanın en üst seviyelerine gelmiş durumdayız.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-uraoglu-denizcilikte-dunyanin-en-ust-seviyelerine-gelmis-durumdayiz/4033779",
+      "published": "Fri, 21 Aug 2026 13:50:38 +0300",
+      "source": "Anadolu Ajansı Güncel Haberler",
       "tickers": [],
       "sentiment": "pozitif",
-      "sentimentScore": 0.6
+      "sentimentScore": 0.95
     },
     {
       "title": "Almanya'da doğal gaz depolarının \"doluluk oranı\" tartışma konusu oldu",
@@ -744,16 +754,6 @@
       ],
       "sentiment": "pozitif",
       "sentimentScore": 0.99
-    },
-    {
-      "title": "Toplam sanayi üretici fiyat endeksi temmuzda aylık yüzde 1,83, yıllık yüzde 28,4 arttı",
-      "summary": "Toplam sanayi üretici fiyat endeksi, temmuzda aylık bazda yüzde 1,83, yıllık bazda yüzde 28,4 artış kaydetti.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/toplam-sanayi-uretici-fiyat-endeksi-temmuzda-aylik-yuzde-1-83-yillik-yuzde-28-4-artti/4032997",
-      "published": "Thu, 20 Aug 2026 16:34:32 +0300",
-      "source": "Anadolu Ajansı Güncel Haberler",
-      "tickers": [],
-      "sentiment": "negatif",
-      "sentimentScore": -0.76
     }
   ]
 }
